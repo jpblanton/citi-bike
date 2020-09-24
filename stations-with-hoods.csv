@@ -1,0 +1,1096 @@
+station_name,station_id,neighborhood,borough,longitude,latitude,capacity
+W 52 St & 11 Ave,72,Clinton,Manhattan,-73.99392888,40.76727216,0
+Franklin St & W Broadway,79,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00666661,40.71911552,33
+St James Pl & Pearl St,82,park-cemetery-etc-Manhattan,Manhattan,-74.00016545,40.71117416,27
+Atlantic Ave & Fort Greene Pl,83,Fort Greene,Brooklyn,-73.97632328,40.68382604,62
+W 17 St & 8 Ave,116,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00149746,40.74177603,50
+Park Ave & St Edwards St,119,Fort Greene,Brooklyn,-73.97803415,40.69608941,53
+Lexington Ave & Classon Ave,120,Bedford,Brooklyn,-73.95928168,40.68676793,19
+Barrow St & Hudson St,127,West Village,Manhattan,-74.00674436,40.73172428,31
+MacDougal St & Prince St,128,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00297088,40.72710258,30
+Clinton St & Joralemon St,143,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99337909,40.69239502,24
+Nassau St & Navy St,144,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98068914,40.69839895,58
+Hudson St & Reade St,146,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.0091059,40.71625008,39
+E 2 St & Avenue C,150,Lower East Side,Manhattan,-73.98085795,40.7208736,55
+Cleveland Pl & Spring St,151,park-cemetery-etc-Manhattan,Manhattan,-73.99724900722504,40.722103786686034,33
+Henry St & Atlantic Ave,157,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99612349,40.69089272,23
+LaGuardia Pl & W 3 St,161,West Village,Manhattan,-73.99810231,40.72917025,35
+E 47 St & 2 Ave,164,Turtle Bay-East Midtown,Manhattan,-73.97032517,40.75323098,47
+W 18 St & 6 Ave,168,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99456405,40.73971301,0
+Broadway & W 49 St,173,Midtown-Midtown South,Manhattan,-73.9845272898674,40.76068327096592,70
+E 25 St & 1 Ave,174,Murray Hill-Kips Bay,Manhattan,-73.97738662,40.7381765,35
+W 16 St & The High Line,212,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00681753,40.74334935,60
+Columbia Heights & Cranberry St,216,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99548059,40.70037867,23
+Old Fulton St,217,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.99383605,40.70277159,39
+W 13 St & 7 Ave,223,West Village,Manhattan,-73.99994661,40.73781509,33
+Spruce St & Nassau St,224,park-cemetery-etc-Manhattan,Manhattan,-74.00552427,40.71146364,30
+E 48 St & 3 Ave,228,Turtle Bay-East Midtown,Manhattan,-73.971878855,40.7546011026,55
+Great Jones St,229,West Village,Manhattan,-73.99379025,40.72743423,23
+St Marks Pl & 2 Ave,236,East Village,Manhattan,-73.98713956,40.7284186,47
+E 11 St & 2 Ave,237,East Village,Manhattan,-73.98672378,40.73047309,39
+Bank St & Washington St,238,West Village,Manhattan,-74.00859207,40.7361967,31
+Willoughby St & Fleet St,239,Fort Greene,Brooklyn,-73.9813018,40.69196566,31
+DeKalb Ave & S Portland Ave,241,Fort Greene,Brooklyn,-73.97493121,40.68981035,23
+Carlton Ave & Flushing Ave,242,Fort Greene,Brooklyn,-73.973736,40.697787,46
+Willoughby Ave & Hall St,244,Clinton Hill,Brooklyn,-73.96536851,40.69196035,31
+Myrtle Ave & St Edwards St,245,Fort Greene,Brooklyn,-73.97703874,40.69327018,23
+Perry St & Bleecker St,247,West Village,Manhattan,-74.00483091,40.73535398,55
+Laight St & Hudson St,248,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00771779,40.72185379,99
+Harrison St & Hudson St,249,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.0090009,40.71870987,27
+Lafayette St & Jersey St,250,park-cemetery-etc-Manhattan,Manhattan,-73.99565293,40.72456089,40
+Mott St & Prince St,251,park-cemetery-etc-Manhattan,Manhattan,-73.99480012,40.72317958,27
+MacDougal St & Washington Sq,252,West Village,Manhattan,-73.99852205,40.73226398,33
+W 11 St & 6 Ave,254,West Village,Manhattan,-73.99800419,40.73532427,47
+Lispenard St & Broadway,257,park-cemetery-etc-Manhattan,Manhattan,-74.00247214,40.71939226,39
+DeKalb Ave & Vanderbilt Ave,258,Clinton Hill,Brooklyn,-73.96885458,40.68940747,23
+South St & Whitehall St,259,Battery Park City-Lower Manhattan,Manhattan,-74.01234218,40.70122128,39
+Broad St & Bridge St,260,Battery Park City-Lower Manhattan,Manhattan,-74.01167797,40.70365182,33
+Johnson St & Gold St,261,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98362464,40.69474881,27
+Washington Park,262,Fort Greene,Brooklyn,-73.9737299,40.6917823,24
+Maiden Ln & Pearl St,264,Battery Park City-Lower Manhattan,Manhattan,-74.00731853,40.70706456,27
+Stanton St & Chrystie St,265,Chinatown,Manhattan,-73.99147535,40.72229346,35
+Broadway & W 36 St,267,Midtown-Midtown South,Manhattan,-73.98765428,40.75097711,70
+Howard St & Centre St,268,park-cemetery-etc-Manhattan,Manhattan,-73.99973337,40.71910537,27
+Adelphi St & Myrtle Ave,270,Fort Greene,Brooklyn,-73.97178913,40.69308257,23
+Lafayette Ave & Fort Greene Pl,274,Fort Greene,Brooklyn,-73.976682,40.68691865,31
+Washington Ave & Greene Ave,275,Clinton Hill,Brooklyn,-73.96563307,40.68650065,19
+Duane St & Greenwich St,276,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.0104554,40.71748752,25
+Concord St & Bridge St,278,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98476437,40.69766564,19
+E 10 St & 5 Ave,280,West Village,Manhattan,-73.99510132,40.73331967,59
+Grand Army Plaza & Central Park S,281,Midtown-Midtown South,Manhattan,-73.97371465,40.7643971,0
+Kent Ave & S 11 St,282,North Side-South Side,Brooklyn,-73.96841526031494,40.707644944175705,27
+Greenwich Ave & 8 Ave,284,West Village,Manhattan,-74.0026376103,40.7390169121,43
+Broadway & E 14 St,285,West Village,Manhattan,-73.99074142,40.73454567,53
+Monroe St & Classon Ave,289,Clinton Hill,Brooklyn,-73.95881081,40.6845683,19
+Madison St & Montgomery St,291,Lower East Side,Manhattan,-73.984844,40.713126,20
+Lafayette St & E 8 St,293,West Village,Manhattan,-73.99102628231049,40.73020660529954,55
+Pike St & E Broadway,295,Chinatown,Manhattan,-73.99293911,40.71406667,24
+E 15 St & 3 Ave,297,Gramercy,Manhattan,-73.986923,40.734232,77
+3 Ave & Schermerhorn St,298,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.9796772,40.68683208,35
+E 2 St & Avenue B,301,East Village,Manhattan,-73.98368779,40.72217444,58
+Avenue D & E 3 St,302,Lower East Side,Manhattan,-73.97793172,40.72082834,23
+Mercer St & Spring St,303,park-cemetery-etc-Manhattan,Manhattan,-73.99949601,40.72362738,67
+Broadway & Battery Pl,304,Battery Park City-Lower Manhattan,Manhattan,-74.01361706,40.70463334,33
+E 58 St & 3 Ave,305,Turtle Bay-East Midtown,Manhattan,-73.96724467,40.76095756,33
+Canal St & Rutgers St,307,Lower East Side,Manhattan,-73.98990025,40.71427487,30
+St James Pl & Oliver St,308,park-cemetery-etc-Manhattan,Manhattan,-73.99851193,40.71307916,27
+Murray St & West St,309,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.013012,40.7149787,41
+State St & Smith St,310,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98912867,40.68926942,66
+Norfolk St & Broome St,311,Chinatown,Manhattan,-73.98802084,40.7172274,31
+Allen St & Stanton St,312,Chinatown,Manhattan,-73.989111,40.722055,31
+Washington Ave & Park Ave,313,park-cemetery-etc-Brooklyn,Brooklyn,-73.96751037,40.69610226,55
+South St & Gouverneur Ln,315,Battery Park City-Lower Manhattan,Manhattan,-74.00670227,40.70355377,29
+Fulton St & William St,316,park-cemetery-etc-Manhattan,Manhattan,-74.00653609,40.70955958,43
+E 6 St & Avenue B,317,East Village,Manhattan,-73.98185424,40.72453734,54
+Fulton St & Broadway,319,Battery Park City-Lower Manhattan,Manhattan,-74.009447,40.711066,33
+Leonard St & Church St,320,park-cemetery-etc-Manhattan,Manhattan,-74.005549,40.717571,39
+Cadman Plaza E & Red Cross Pl,321,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98971773,40.69991755,39
+Lawrence St & Willoughby St,323,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98631746,40.69236178,39
+DeKalb Ave & Hudson Ave,324,Fort Greene,Brooklyn,-73.981013,40.689888,51
+E 19 St & 3 Ave,325,Gramercy,Manhattan,-73.98473765,40.73624527,35
+E 11 St & 1 Ave,326,East Village,Manhattan,-73.98426726,40.72953837,41
+Vesey Pl & River Terrace,327,Battery Park City-Lower Manhattan,Manhattan,-74.01658354,40.7153379,39
+Watts St & Greenwich St,328,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00965965,40.72405549,23
+Reade St & Broadway,330,park-cemetery-etc-Manhattan,Manhattan,-74.00562789,40.71450451,39
+Pike St & Monroe St,331,Lower East Side,Manhattan,-73.99193043,40.71173107,27
+Cherry St,332,Lower East Side,Manhattan,-73.97948148,40.71219906,36
+W 20 St & 7 Ave,334,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99726235,40.74238787,31
+Washington Pl & Broadway,335,West Village,Manhattan,-73.99404649,40.72903917,27
+Sullivan St & Washington Sq,336,West Village,Manhattan,-73.99906065,40.73047747,36
+Madison St & Clinton St,340,Lower East Side,Manhattan,-73.98776323,40.71269042,27
+Stanton St & Mangin St,341,Lower East Side,Manhattan,-73.97628939,40.71782143,19
+Columbia St & Rivington St,342,Lower East Side,Manhattan,-73.98016555,40.71739973,29
+Clinton Ave & Flushing Ave,343,park-cemetery-etc-Brooklyn,Brooklyn,-73.96986848,40.69794,23
+Monroe St & Bedford Ave,344,Bedford,Brooklyn,-73.95380904,40.6851443,23
+Bank St & Hudson St,346,West Village,Manhattan,-74.00618026,40.73652889,27
+Greenwich St & W Houston St,347,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.008591,40.728846,35
+Rivington St & Ridge St,349,Lower East Side,Manhattan,-73.98329859,40.71850211,61
+Clinton St & Grand St,350,Lower East Side,Manhattan,-73.9870295,40.71559509,28
+Front St & Maiden Ln,351,Battery Park City-Lower Manhattan,Manhattan,-74.00612572,40.70530954,39
+S Portland Ave & Hanson Pl,353,Fort Greene,Brooklyn,-73.97431458,40.68539567,27
+Emerson Pl & Myrtle Ave,354,Clinton Hill,Brooklyn,-73.96223558,40.69363137,47
+Bayard St & Baxter St,355,park-cemetery-etc-Manhattan,Manhattan,-73.99974372,40.71602118,43
+Bialystoker Pl & Delancey St,356,Lower East Side,Manhattan,-73.98261206,40.71622644,23
+Christopher St & Greenwich St,358,West Village,Manhattan,-74.00711384,40.73291553,50
+E 47 St & Park Ave,359,Turtle Bay-East Midtown,Manhattan,-73.97498696,40.75510267,78
+William St & Pine St,360,Battery Park City-Lower Manhattan,Manhattan,-74.00887308,40.70717936,39
+Allen St & Hester St,361,Chinatown,Manhattan,-73.99190759,40.71605866,43
+Broadway & W 37 St,362,Midtown-Midtown South,Manhattan,-73.98753523,40.75172632,57
+West Thames St,363,Battery Park City-Lower Manhattan,Manhattan,-74.01713445,40.70834698,49
+Lafayette Ave & Classon Ave,364,Clinton Hill,Brooklyn,-73.96023854,40.68900443,27
+Clinton Ave & Myrtle Ave,366,Fort Greene,Brooklyn,-73.968896,40.693261,33
+E 53 St & Lexington Ave,367,Turtle Bay-East Midtown,Manhattan,-73.97069431,40.75828065,43
+Carmine St & 6 Ave,368,West Village,Manhattan,-74.00214988,40.73038599,39
+Washington Pl & 6 Ave,369,West Village,Manhattan,-74.00026394,40.73224119,60
+Franklin Ave & Myrtle Ave,372,Bedford,Brooklyn,-73.95801365375519,40.694546087246025,27
+Willoughby Ave & Walworth St,373,Bedford,Brooklyn,-73.95381995,40.69331716,19
+John St & William St,376,park-cemetery-etc-Manhattan,Manhattan,-74.00722156,40.70862144,43
+6 Ave & Canal St,377,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00566443,40.72243797,48
+W 31 St & 7 Ave,379,Midtown-Midtown South,Manhattan,-73.9916,40.749156,42
+W 4 St & 7 Ave S,380,West Village,Manhattan,-74.00293877,40.73401143,5
+Greenwich Ave & Charles St,383,West Village,Manhattan,-74.000271,40.735238,39
+E 55 St & 2 Ave,385,Turtle Bay-East Midtown,Manhattan,-73.96603308,40.75797322,29
+Centre St & Worth St,386,park-cemetery-etc-Manhattan,Manhattan,-74.00234482,40.71494807,82
+Centre St & Chambers St,387,park-cemetery-etc-Manhattan,Manhattan,-74.0046073,40.71273266,39
+W 26 St & 10 Ave,388,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.002950346,40.749717753,35
+Broadway & Berry St,389,North Side-South Side,Brooklyn,-73.96525063,40.71044554,27
+Duffield St & Willoughby St,390,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.9842844,40.69221589,31
+Clark St & Henry St,391,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99344559,40.69760127,31
+Jay St & Tech Pl,392,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.987167,40.695065,35
+E 5 St & Avenue C,393,Lower East Side,Manhattan,-73.97995466,40.72299208,37
+E 9 St & Avenue C,394,Lower East Side,Manhattan,-73.97768752,40.72521311,34
+Lefferts Pl & Franklin Ave,396,Clinton Hill,Brooklyn,-73.9557689392,40.680342423,25
+Fulton St & Clermont Ave,397,Fort Greene,Brooklyn,-73.96922273,40.68415748,75
+Atlantic Ave & Furman St,398,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.9999786,40.69165183,31
+Lafayette Ave & St James Pl,399,Clinton Hill,Brooklyn,-73.9647628,40.68851534,39
+Pitt St & Stanton St,400,Lower East Side,Manhattan,-73.98178024,40.71926081,15
+Allen St & Rivington St,401,Chinatown,Manhattan,-73.98997825,40.72019576,42
+Broadway & E 22 St,402,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.98955109,40.7403432,39
+E 2 St & 2 Ave,403,East Village,Manhattan,-73.99069656,40.72502876,31
+Washington St & Gansevoort St,405,West Village,Manhattan,-74.008119,40.739323,51
+Hicks St & Montague St,406,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99595065,40.69512845,20
+Market St & Cherry St,408,Chinatown,Manhattan,-73.99400398,40.71076228,23
+Suffolk St & Stanton St,410,Chinatown,Manhattan,-73.98517977,40.72066442,45
+E 6 St & Avenue D,411,Lower East Side,Manhattan,-73.97668709,40.72228087,31
+Forsyth St & Canal St,412,Chinatown,Manhattan,-73.99422366,40.7158155,29
+Pearl St & Hanover Square,415,Battery Park City-Lower Manhattan,Manhattan,-74.00926027,40.7047177,46
+Cumberland St & Lafayette Ave,416,Fort Greene,Brooklyn,-73.97265183,40.68753406,31
+Barclay St & Church St,417,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.01020234,40.71291224,25
+Front St & Gold St,418,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.982578,40.70224,23
+Carlton Ave & Park Ave,419,Fort Greene,Brooklyn,-73.97355569,40.69580705,23
+Clermont Ave & Lafayette Ave,420,Clinton Hill,Brooklyn,-73.96968902,40.68764484,51
+Clermont Ave & Park Ave,421,Fort Greene,Brooklyn,-73.97129668,40.69573398,19
+W 59 St & 10 Ave,422,Lincoln Square,Manhattan,-73.988038,40.770513,78
+W 54 St & 9 Ave,423,Clinton,Manhattan,-73.98690506,40.76584941,27
+West St & Chambers St,426,Battery Park City-Lower Manhattan,Manhattan,-74.01322069,40.71754834,30
+Bus Slip & State St,427,Battery Park City-Lower Manhattan,Manhattan,-74.013942,40.701907,47
+E 7 St & Avenue A,432,East Village,Manhattan,-73.98379855,40.72621788,31
+9 Ave & W 18 St,434,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00366443,40.74317449,60
+W 21 St & 6 Ave,435,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99415556,40.74173969,50
+Hancock St & Bedford Ave,436,Clinton Hill,Brooklyn,-73.95399026,40.68216564,27
+Macon St & Nostrand Ave,437,Bedford,Brooklyn,-73.9500479759,40.6809833854,24
+St Marks Pl & 1 Ave,438,East Village,Manhattan,-73.98564945,40.72779126,47
+E 4 St & 2 Ave,439,East Village,Manhattan,-73.98978041,40.7262807,39
+E 45 St & 3 Ave,440,Turtle Bay-East Midtown,Manhattan,-73.97282625,40.75255434,32
+W 27 St & 7 Ave,442,Midtown-Midtown South,Manhattan,-73.993915,40.746647,51
+Bedford Ave & S 9 St,443,North Side-South Side,Brooklyn,-73.96408963,40.70853074,23
+E 10 St & Avenue A,445,East Village,Manhattan,-73.98142006,40.72740794,80
+W 24 St & 7 Ave,446,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99529885,40.74487634,79
+8 Ave & W 52 St,447,Clinton,Manhattan,-73.9851615,40.76370739,31
+W 37 St & 10 Ave,448,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.9979009,40.75660359,27
+W 49 St & 8 Ave,450,Clinton,Manhattan,-73.98788205,40.76227205,67
+W 22 St & 8 Ave,453,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99915362,40.74475148,66
+E 51 St & 1 Ave,454,Turtle Bay-East Midtown,Manhattan,-73.96592976,40.75455731,35
+1 Ave & E 44 St,455,Turtle Bay-East Midtown,Manhattan,-73.96905301,40.75001986,59
+E 53 St & Madison Ave,456,Midtown-Midtown South,Manhattan,-73.97402311,40.7597108,34
+11 Ave & W 27 St,458,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.005226,40.751396,31
+S 4 St & Wythe Ave,460,North Side-South Side,Brooklyn,-73.96590294,40.71285887,25
+E 20 St & 2 Ave,461,Gramercy,Manhattan,-73.98205027,40.73587678,19
+W 22 St & 10 Ave,462,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00451887,40.74691959,77
+E 56 St & 3 Ave,464,Turtle Bay-East Midtown,Manhattan,-73.96759673,40.75934501,53
+Broadway & W 41 St,465,Midtown-Midtown South,Manhattan,-73.98658032,40.75513557,39
+W 25 St & 6 Ave,466,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99144871,40.74395411,35
+Dean St & 4 Ave,467,Park Slope-Gowanus,Brooklyn,-73.97895137,40.68312489,34
+Broadway & W 56 St,468,Midtown-Midtown South,Manhattan,-73.98192338,40.7652654,65
+Broadway & W 53 St,469,Midtown-Midtown South,Manhattan,-73.98268129,40.76344058,57
+W 20 St & 8 Ave,470,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00004031,40.74345335,72
+Grand St & Havemeyer St,471,North Side-South Side,Brooklyn,-73.95698119,40.71286844,31
+E 32 St & Park Ave,472,Murray Hill-Kips Bay,Manhattan,-73.98194829,40.7457121,55
+Rivington St & Chrystie St,473,Chinatown,Manhattan,-73.9919254,40.72110063,50
+5 Ave & E 29 St,474,Midtown-Midtown South,Manhattan,-73.98683077,40.7451677,56
+E 31 St & 3 Ave,476,Murray Hill-Kips Bay,Manhattan,-73.97966069,40.74394314,65
+W 41 St & 8 Ave,477,Midtown-Midtown South,Manhattan,-73.9900262,40.75640548,71
+11 Ave & W 41 St,478,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99884222,40.76030096,37
+9 Ave & W 45 St,479,Clinton,Manhattan,-73.9912551,40.76019252,31
+W 53 St & 10 Ave,480,Clinton,Manhattan,-73.99061728,40.76669671,29
+S 3 St & Bedford Ave,481,North Side-South Side,Brooklyn,-73.96264403,40.71260486,25
+W 15 St & 7 Ave,482,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99931783,40.73935542,79
+E 12 St & 3 Ave,483,East Village,Manhattan,-73.98889957,40.73223272,34
+W 44 St & 5 Ave,484,Midtown-Midtown South,Manhattan,-73.98014437,40.75500254,46
+W 37 St & 5 Ave,485,Midtown-Midtown South,Manhattan,-73.98338988,40.75038009,40
+Broadway & W 29 St,486,Midtown-Midtown South,Manhattan,-73.98855723,40.7462009,41
+E 20 St & FDR Drive,487,Stuyvesant Town-Cooper Village,Manhattan,-73.97573881,40.73314259,35
+10 Ave & W 28 St,489,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00176802,40.75066386,49
+8 Ave & W 33 St,490,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.993934,40.751551,66
+W 33 St & 7 Ave,492,Midtown-Midtown South,Manhattan,-73.99093085,40.75019995,67
+W 45 St & 6 Ave,493,Midtown-Midtown South,Manhattan,-73.98291153,40.7568001,34
+W 26 St & 8 Ave,494,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99723551,40.74734825,66
+W 47 St & 10 Ave,495,Clinton,Manhattan,-73.99301222,40.76269882,39
+E 16 St & 5 Ave,496,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99238967,40.73726186,65
+E 17 St & Broadway,497,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99009296,40.73704984,66
+Broadway & W 60 St,499,Lincoln Square,Manhattan,-73.98191841,40.76915505,36
+Broadway & W 51 St,500,Midtown-Midtown South,Manhattan,-73.98336183,40.76228826,52
+FDR Drive & E 35 St,501,Turtle Bay-East Midtown,Manhattan,-73.97121214,40.744219,79
+Henry St & Grand St,502,Lower East Side,Manhattan,-73.981095,40.714211,36
+E 20 St & Park Ave,503,Gramercy,Manhattan,-73.98751968,40.73827428,31
+1 Ave & E 16 St,504,Stuyvesant Town-Cooper Village,Manhattan,-73.98165557,40.73221853,54
+6 Ave & W 33 St,505,Midtown-Midtown South,Manhattan,-73.98848395,40.74901271,52
+E 25 St & 2 Ave,507,Murray Hill-Kips Bay,Manhattan,-73.97973776,40.73912601,0
+W 46 St & 11 Ave,508,Clinton,Manhattan,-73.99667444,40.76341379,25
+9 Ave & W 22 St,509,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00197139,40.7454973,61
+W 56 St & 10 Ave,513,Clinton,Manhattan,-73.988639,40.768254,29
+12 Ave & W 40 St,514,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00277668,40.76087502,52
+W 43 St & 10 Ave,515,Clinton,Manhattan,-73.99461843,40.76009437,79
+E 47 St & 1 Ave,516,Turtle Bay-East Midtown,Manhattan,-73.96784384,40.75206862,31
+Pershing Square South,517,Murray Hill-Kips Bay,Manhattan,-73.97791,40.751581,69
+Pershing Square North,519,Murray Hill-Kips Bay,Manhattan,-73.977706,40.751873,69
+E 51 St & Lexington Ave,522,Turtle Bay-East Midtown,Manhattan,-73.97207836,40.75714758,51
+W 34 St & 11 Ave,525,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.0021163,40.75594159,56
+E 33 St & 5 Ave,526,Midtown-Midtown South,Manhattan,-73.98490707,40.74765947,40
+2 Ave & E 31 St,528,Murray Hill-Kips Bay,Manhattan,-73.97706058,40.74290902,39
+W 42 St & 8 Ave,529,Clinton,Manhattan,-73.99098507,40.7575699,41
+11 Ave & W 59 St,530,Lincoln Square,Manhattan,-73.99046033620834,40.77149671054441,24
+Forsyth St & Broome St,531,Chinatown,Manhattan,-73.99266288,40.71893904,39
+S 5 Pl & S 5 St,532,North Side-South Side,Brooklyn,-73.960876,40.710451,43
+Broadway & W 38 St,533,Midtown-Midtown South,Manhattan,-73.98721619,40.75299641,46
+Water - Whitehall Plaza,534,Battery Park City-Lower Manhattan,Manhattan,-74.0127234,40.70255065,31
+1 Ave & E 30 St,536,Murray Hill-Kips Bay,Manhattan,-73.97536082,40.74144387,28
+Metropolitan Ave & Bedford Ave,539,North Side-South Side,Brooklyn,-73.96024116,40.71534825,31
+Lexington Ave & E 29 St,540,Murray Hill-Kips Bay,Manhattan,-73.98215353488922,40.74311555376486,46
+E 23 St & 1 Ave,545,Stuyvesant Town-Cooper Village,Manhattan,-73.97809472,40.736502,27
+E 30 St & Park Ave S,546,Murray Hill-Kips Bay,Manhattan,-73.98303529,40.74444921,45
+Front St & Washington St,2000,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98940236,40.70255088,57
+Wythe Ave & Metropolitan Ave,2002,North Side-South Side,Brooklyn,-73.963198,40.716887,27
+1 Ave & E 18 St,2003,Stuyvesant Town-Cooper Village,Manhattan,-73.98054420948029,40.733812191966315,54
+Central Park S & 6 Ave,2006,park-cemetery-etc-Manhattan,Manhattan,-73.97634151,40.76590936,49
+Little West St & 1 Pl,2008,Battery Park City-Lower Manhattan,Manhattan,-74.01677685,40.70569254,24
+Catherine St & Monroe St,2009,Chinatown,Manhattan,-73.99682619,40.71117444,35
+Grand St & Greene St,2010,park-cemetery-etc-Manhattan,Manhattan,-74.00238141417502,40.72170005235607,65
+E 27 St & 1 Ave,2012,Murray Hill-Kips Bay,Manhattan,-73.976806,40.739445,35
+E 43 St & 2 Ave,2017,Turtle Bay-East Midtown,Manhattan,-73.97121414,40.75022392,39
+W 45 St & 8 Ave,2021,Clinton,Manhattan,-73.98859651,40.75929124,65
+E 60 St & York Ave,2022,Lenox Hill-Roosevelt Island,Manhattan,-73.959223,40.759107,33
+Kent Ave & N 7 St,3016,North Side-South Side,Brooklyn,-73.96165072917938,40.72036775298455,54
+Kingston Ave & Herkimer St,3041,Crown Heights North,Brooklyn,-73.94142771,40.67890679,24
+Fulton St & Utica Ave,3042,Crown Heights North,Brooklyn,-73.9298911,40.6794268,19
+Lewis Ave & Decatur St,3043,Stuyvesant Heights,Brooklyn,-73.934903,40.6814598,19
+Albany Ave & Fulton St,3044,Stuyvesant Heights,Brooklyn,-73.938475,40.6800105,27
+Marcus Garvey Blvd & Macon St,3046,Stuyvesant Heights,Brooklyn,-73.938037,40.682601,19
+Halsey St & Tompkins Ave,3047,Bedford,Brooklyn,-73.944118,40.6823687,21
+Putnam Ave & Nostrand Ave,3048,Bedford,Brooklyn,-73.94977,40.68402,19
+Cambridge Pl & Gates Ave,3049,Clinton Hill,Brooklyn,-73.96304,40.68488,18
+Putnam Ave & Throop Ave,3050,Stuyvesant Heights,Brooklyn,-73.94111,40.6851532,21
+Lewis Ave & Madison St,3052,Stuyvesant Heights,Brooklyn,-73.935775,40.686312,23
+Marcy Ave & Lafayette Ave,3053,Bedford,Brooklyn,-73.947915,40.6900815,23
+Greene Ave & Throop Ave,3054,Stuyvesant Heights,Brooklyn,-73.942061,40.6894932,19
+Greene Ave & Nostrand Ave,3055,Bedford,Brooklyn,-73.950916,40.6883337,23
+Kosciuszko St & Nostrand Ave,3056,Bedford,Brooklyn,-73.95133465,40.69072549,23
+Kosciuszko St & Tompkins Ave,3057,Bedford,Brooklyn,-73.9452416,40.69128258,18
+Lewis Ave & Kosciuszko St,3058,Stuyvesant Heights,Brooklyn,-73.93705428,40.69237074,24
+Pulaski St & Marcus Garvey Blvd,3059,Stuyvesant Heights,Brooklyn,-73.939877,40.6933982,19
+Willoughby Ave & Tompkins Ave,3060,Bedford,Brooklyn,-73.94626915,40.69425403,19
+Throop Ave & Myrtle Ave,3061,Bedford,Brooklyn,-73.94371094,40.69622937,21
+Myrtle Ave & Marcy Ave,3062,Bedford,Brooklyn,-73.94954908,40.69539817,23
+Nostrand Ave & Myrtle Ave,3063,Bedford,Brooklyn,-73.95238108,40.69527008,20
+Myrtle Ave & Lewis Ave,3064,Stuyvesant Heights,Brooklyn,-73.93756926,40.69681963,23
+Union Ave & Wallabout St,3065,Bedford,Brooklyn,-73.95032283,40.70029511,31
+Tompkins Ave & Hopkins St,3066,Bedford,Brooklyn,-73.94708417,40.69957608,19
+Broadway & Whipple St,3067,Bedford,Brooklyn,-73.9437303,40.7016657,27
+Humboldt St & Varet St,3068,Bushwick South,Brooklyn,-73.940636,40.7031724,42
+Lorimer St & Broadway,3069,Williamsburg,Brooklyn,-73.94818595,40.70411791,29
+McKibbin St & Manhattan Ave,3070,East Williamsburg,Brooklyn,-73.94407279,40.70510918,23
+Boerum St & Broadway,3071,East Williamsburg,Brooklyn,-73.94976519,40.70538077,19
+Leonard St & Boerum St,3072,East Williamsburg,Brooklyn,-73.94644578,40.70583339,24
+Montrose Ave & Bushwick Ave,3074,Bushwick South,Brooklyn,-73.94016171,40.70767788,42
+Division Ave & Marcy Ave,3075,Williamsburg,Brooklyn,-73.95796783,40.70708701,33
+Scholes St & Manhattan Ave,3076,East Williamsburg,Brooklyn,-73.9448625,40.70870368,36
+Stagg St & Union Ave,3077,North Side-South Side,Brooklyn,-73.95095259,40.70877084,32
+Broadway & Roebling St,3078,North Side-South Side,Brooklyn,-73.96063148975372,40.70924826276157,27
+S 4 St & Rodney St,3080,North Side-South Side,Brooklyn,-73.95608,40.70934,21
+Graham Ave & Grand St,3081,East Williamsburg,Brooklyn,-73.944024,40.711863,29
+Hope St & Union Ave,3082,North Side-South Side,Brooklyn,-73.95141312,40.71167351,25
+Bushwick Ave & Powers St,3083,East Williamsburg,Brooklyn,-73.94100005,40.71247661,32
+Roebling St & N 4 St,3085,North Side-South Side,Brooklyn,-73.95739,40.71469,25
+Graham Ave & Conselyea St,3086,East Williamsburg,Brooklyn,-73.944507,40.715143,0
+Metropolitan Ave & Meeker Ave,3087,East Williamsburg,Brooklyn,-73.95234386,40.71413311,30
+Union Ave & Jackson St,3088,North Side-South Side,Brooklyn,-73.952029,40.7160751,19
+Berry St & N 8 St,3092,North Side-South Side,Brooklyn,-73.95852515,40.7190095,27
+N 6 St & Bedford Ave,3093,North Side-South Side,Brooklyn,-73.95850939,40.71745169,28
+Graham Ave & Withers St,3094,East Williamsburg,Brooklyn,-73.94485918,40.7169811,18
+Graham Ave & Herbert St,3095,East Williamsburg,Brooklyn,-73.94500379,40.71929301,26
+Union Ave & N 12 St,3096,North Side-South Side,Brooklyn,-73.95242,40.71924,39
+Nassau Ave & Newell St,3100,Greenpoint,Brooklyn,-73.94752621650696,40.724812564400175,51
+N 12 St & Bedford Ave,3101,North Side-South Side,Brooklyn,-73.95484712,40.72079821,3
+Driggs Ave & Lorimer St,3102,North Side-South Side,Brooklyn,-73.9504154,40.72179134,27
+N 15 St & Wythe Ave,3105,Greenpoint,Brooklyn,-73.955736,40.724055,24
+Driggs Ave & N Henry St,3106,Greenpoint,Brooklyn,-73.94308,40.72325,22
+Bedford Ave & Nassau Ave,3107,North Side-South Side,Brooklyn,-73.95212324,40.72311651,39
+Nassau Ave & Russell St,3108,Greenpoint,Brooklyn,-73.94434,40.72557,51
+Banker St & Meserole Ave,3109,Greenpoint,Brooklyn,-73.95621,40.72606,31
+Meserole Ave & Manhattan Ave,3110,Greenpoint,Brooklyn,-73.95299117,40.72708584,28
+Milton St & Franklin St,3112,Greenpoint,Brooklyn,-73.95779,40.72906,33
+Greenpoint Ave & Manhattan Ave,3113,Greenpoint,Brooklyn,-73.95394,40.73026,27
+India St & Manhattan Ave,3115,Greenpoint,Brooklyn,-73.9550858,40.73232194,50
+Huron St & Franklin St,3116,Greenpoint,Brooklyn,-73.95826,40.73266,35
+Franklin St & Dupont St,3117,Greenpoint,Brooklyn,-73.95866,40.73564,27
+McGuinness Blvd & Eagle St,3118,Greenpoint,Brooklyn,-73.95284,40.73555,42
+Vernon Blvd & 50 Ave,3119,Hunters Point-Sunnyside-West Maspeth,Queens,-73.95411749,40.74232744,45
+Jackson Ave & 46 Rd,3121,Hunters Point-Sunnyside-West Maspeth,Queens,-73.94733276,40.74524768,27
+48 Ave & 5 St,3122,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9558732509613,40.744363287066875,79
+31 St & Thomson Ave,3123,Hunters Point-Sunnyside-West Maspeth,Queens,-73.93540375,40.74469738,47
+46 Ave & 5 St,3124,Hunters Point-Sunnyside-West Maspeth,Queens,-73.95451,40.74731,43
+45 Rd & 11 St,3125,Hunters Point-Sunnyside-West Maspeth,Queens,-73.94977234,40.74708586,23
+44 Dr & Jackson Ave,3126,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9432635,40.74718234,34
+9 St & 44 Rd,3127,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9521,40.74966,18
+21 St & 43 Ave,3128,Hunters Point-Sunnyside-West Maspeth,Queens,-73.94594845,40.75052534,27
+Queens Plaza North & Crescent St,3129,Queensbridge-Ravenswood-Long Island City,Queens,-73.94073717,40.75110165,31
+21 St & Queens Plaza North,3130,Queensbridge-Ravenswood-Long Island City,Queens,-73.94335788,40.75325964,30
+E 68 St & 3 Ave,3131,Lenox Hill-Roosevelt Island,Manhattan,-73.96224617958069,40.76712840349542,31
+E 59 St & Madison Ave,3132,Upper East Side-Carnegie Hill,Manhattan,-73.97109243,40.76350532,35
+3 Ave & E 62 St,3134,Lenox Hill-Roosevelt Island,Manhattan,-73.96526895,40.76312584,51
+E 75 St & 3 Ave,3135,Lenox Hill-Roosevelt Island,Manhattan,-73.95772297,40.77112927,41
+E 72 St & Park Ave,3139,Upper East Side-Carnegie Hill,Manhattan,-73.96409422159195,40.77118287540658,43
+1 Ave & E 78 St,3140,Lenox Hill-Roosevelt Island,Manhattan,-73.9535166,40.77140426,55
+1 Ave & E 68 St,3141,Lenox Hill-Roosevelt Island,Manhattan,-73.95818491,40.76500525,58
+1 Ave & E 62 St,3142,Lenox Hill-Roosevelt Island,Manhattan,-73.96094022,40.7612274,41
+E 81 St & Park Ave,3144,Upper East Side-Carnegie Hill,Manhattan,-73.9590097,40.77677702,46
+E 84 St & Park Ave,3145,Upper East Side-Carnegie Hill,Manhattan,-73.95772073,40.77862688,45
+E 81 St & 3 Ave,3146,Upper East Side-Carnegie Hill,Manhattan,-73.9567526,40.77573034,47
+E 85 St & 3 Ave,3147,Yorkville,Manhattan,-73.95407149,40.77801203,39
+E 84 St & 1 Ave,3148,Yorkville,Manhattan,-73.95068615,40.77565541,31
+E 85 St & York Ave,3150,Yorkville,Manhattan,-73.94803392,40.77536905,47
+E 81 St & York Ave,3151,Yorkville,Manhattan,-73.94989233,40.7728384,43
+3 Ave & E 71 St,3152,Lenox Hill-Roosevelt Island,Manhattan,-73.96119945,40.76873687,42
+E 77 St & 3 Ave,3154,Upper East Side-Carnegie Hill,Manhattan,-73.95856158,40.77314236,31
+E 72 St & York Ave,3156,Lenox Hill-Roosevelt Island,Manhattan,-73.95348296,40.76663814,37
+East End Ave & E 86 St,3157,Yorkville,Manhattan,-73.94446054,40.77518615,27
+W 63 St & Broadway,3158,Lincoln Square,Manhattan,-73.98261428,40.77163851,31
+W 67 St & Broadway,3159,Lincoln Square,Manhattan,-73.98266566,40.77492513,31
+Central Park West & W 76 St,3160,park-cemetery-etc-Manhattan,Manhattan,-73.97374737,40.77896784,39
+W 76 St & Columbus Ave,3161,Upper West Side,Manhattan,-73.97728532552719,40.7801839724239,59
+Central Park West & W 68 St,3163,park-cemetery-etc-Manhattan,Manhattan,-73.97782542,40.7734066,43
+Columbus Ave & W 72 St,3164,Lincoln Square,Manhattan,-73.97898475,40.7770575,66
+Central Park West & W 72 St,3165,park-cemetery-etc-Manhattan,Manhattan,-73.9762057363987,40.77579376683666,51
+Riverside Dr & W 72 St,3166,Upper West Side,Manhattan,-73.98562431335449,40.78057799010334,1
+Amsterdam Ave & W 73 St,3167,Lincoln Square,Manhattan,-73.98093044757842,40.77966809007312,55
+Riverside Dr & W 82 St,3169,Upper West Side,Manhattan,-73.98128127,40.78720869,39
+W 84 St & Columbus Ave,3170,Upper West Side,Manhattan,-73.97283406,40.78499979,35
+Amsterdam Ave & W 82 St,3171,Upper West Side,Manhattan,-73.97667321,40.78524672,39
+W 74 St & Columbus Ave,3172,Lincoln Square,Manhattan,-73.97754961,40.7785669,27
+Riverside Blvd & W 67 St,3173,Lincoln Square,Manhattan,-73.98888587951659,40.777507027547976,39
+W 70 St & Amsterdam Ave,3175,Lincoln Square,Manhattan,-73.98288594,40.77748046,31
+W 84 St & Broadway,3177,Upper West Side,Manhattan,-73.977112,40.7867947,63
+Riverside Dr & W 78 St,3178,Upper West Side,Manhattan,-73.98362492,40.78414472,39
+Park Ave & Marcus Garvey Blvd,3179,Bushwick South,Brooklyn,-73.941342,40.698617,23
+Yankee Ferry Terminal,3182,park-cemetery-etc-Manhattan,Manhattan,-74.016966,40.686931,42
+47 Ave & 31 St,3221,Hunters Point-Sunnyside-West Maspeth,Queens,-73.93561,40.743,27
+W 82 St & Central Park West,3226,Upper West Side,Manhattan,-73.97137,40.78275,45
+E 67 St & Park Ave,3231,Upper East Side-Carnegie Hill,Manhattan,-73.96592080593109,40.76780080148132,39
+Bond St & Fulton St,3232,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98304268717766,40.68962188790333,47
+E 48 St & 5 Ave,3233,Midtown-Midtown South,Manhattan,-73.97805914282799,40.75724567911726,39
+E 41 St & Madison Ave,3235,Murray Hill-Kips Bay,Manhattan,-73.97992193698882,40.752165280621966,34
+W 42 St & Dyer Ave,3236,Clinton,Manhattan,-73.99379968643188,40.75898481399634,33
+Monroe St & Tompkins Ave,3241,Bedford,Brooklyn,-73.944694,40.686203,19
+Schermerhorn St & Court St,3242,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99183362722397,40.69102925677968,39
+E 58 St & 1 Ave (NE Corner),3243,Turtle Bay-East Midtown,Manhattan,-73.96226227283478,40.75892386377695,29
+University Pl & E 8 St,3244,West Village,Manhattan,-73.99490341544151,40.73143724085228,42
+Montague St & Clinton St,3246,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99230033159256,40.694281141397326,39
+Verona Pl & Fulton St,3249,Bedford,Brooklyn,-73.9476791024208,40.6803560840434,19
+Soissons Landing,3254,park-cemetery-etc-Manhattan,Manhattan,-74.01486575603485,40.69231660719192,29
+8 Ave & W 31 St,3255,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.9946848154068,40.7505853470215,18
+Pier 40 - Hudson River Park,3256,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.01129573583603,40.7277140777778,23
+9 Ave & W 28 St,3259,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99923384189606,40.74937024193277,27
+Mercer St & Bleecker St,3260,West Village,Manhattan,-73.99662137031554,40.72706363348306,45
+Cooper Square & Astor Pl,3263,park-cemetery-etc-Manhattan,Manhattan,-73.99075269699097,40.72951496224949,59
+W 89 St & Columbus Ave,3283,Upper West Side,Manhattan,-73.97041561,40.7882213,47
+E 88 St & Park Ave,3284,Upper East Side-Carnegie Hill,Manhattan,-73.95595908164978,40.781410700190015,38
+W 87 St & Amsterdam Ave,3285,Upper West Side,Manhattan,-73.9747,40.78839,43
+E 89 St & 3 Ave,3286,Yorkville,Manhattan,-73.9521667,40.7806284,39
+W 87 St & West End Ave,3287,Upper West Side,Manhattan,-73.97757,40.789622,47
+E 88 St & 1 Ave,3288,Yorkville,Manhattan,-73.9488134,40.778301,39
+W 90 St & Amsterdam Ave,3289,Upper West Side,Manhattan,-73.97288918495178,40.79017948095081,32
+E 89 St & York Ave,3290,Yorkville,Manhattan,-73.946041,40.7779453,35
+W 92 St & Broadway,3293,Upper West Side,Manhattan,-73.9739,40.7921,24
+E 91 St & Park Ave,3294,Upper East Side-Carnegie Hill,Manhattan,-73.955327,40.7835016,38
+E 93 St & 2 Ave,3296,Yorkville,Manhattan,-73.9489196240902,40.782454175279874,42
+6 St & 7 Ave,3297,Park Slope-Gowanus,Brooklyn,-73.97988067,40.6686627,21
+Warren St & Court St,3298,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.99383324,40.686371,23
+E 98 St & Park Ave,3299,East Harlem South,Manhattan,-73.95206,40.78813,25
+Columbus Ave & W 95 St,3301,Upper West Side,Manhattan,-73.968087,40.7919557,39
+Columbus Ave & W 103 St,3302,Upper West Side,Manhattan,-73.9643412291,40.7969347,22
+Butler St & Court St,3303,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.99440329,40.6849894,25
+6 Ave & 9 St,3304,Park Slope-Gowanus,Brooklyn,-73.98377641,40.668127,27
+E 91 St & 2 Ave,3305,Yorkville,Manhattan,-73.94965589046478,40.78112229934166,39
+10 St & 7 Ave,3306,Park Slope-Gowanus,Brooklyn,-73.98199886,40.6662078,23
+West End Ave & W 94 St,3307,Upper West Side,Manhattan,-73.974124,40.7941654,31
+Kane St & Clinton St,3308,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99645295,40.6861758,27
+E 97 St & 3 Ave,3309,East Harlem South,Manhattan,-73.94860294,40.7859201,30
+14 St & 7 Ave,3310,Park Slope-Gowanus,Brooklyn,-73.98396846,40.663779,24
+Columbia St & Kane St,3311,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.0016256,40.68763155,21
+1 Ave & E 94 St,3312,Yorkville,Manhattan,-73.94594,40.7817212,38
+6 Ave & 12 St,3313,Park Slope-Gowanus,Brooklyn,-73.9854617,40.6663181,29
+W 95 St & Broadway,3314,Upper West Side,Manhattan,-73.971888,40.7937704,32
+Henry St & Degraw St,3315,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99917254,40.6847514,23
+10 St & 5 Ave,3317,Park Slope-Gowanus,Brooklyn,-73.98700053,40.6686273,24
+2 Ave & E 96 St,3318,Yorkville,Manhattan,-73.9471673,40.7839636,39
+14 St & 5 Ave,3319,Park Slope-Gowanus,Brooklyn,-73.98895053,40.666287,21
+Clinton St & Union St,3321,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99785267,40.6831164,25
+12 St & 4 Ave,3322,Park Slope-Gowanus,Brooklyn,-73.9904394,40.668603,0
+W 106 St & Central Park West,3323,Upper West Side,Manhattan,-73.9605909006,40.7981856,59
+3 Ave & 14 St,3324,Park Slope-Gowanus,Brooklyn,-73.99333264,40.6685455,25
+E 95 St & 3 Ave,3325,Upper East Side-Carnegie Hill,Manhattan,-73.950503,40.7849032,31
+Clinton St & Centre St,3326,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00194698,40.67434,21
+3 Ave & E 100 St,3327,East Harlem South,Manhattan,-73.94728331,40.7877214,27
+W 100 St & Manhattan Ave,3328,Upper West Side,Manhattan,-73.9645,40.795,39
+Degraw St & Smith St,3329,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99318208,40.6829151,27
+Henry St & Bay St,3330,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00494695,40.6725058,19
+Riverside Dr & W 104 St,3331,Upper West Side,Manhattan,-73.9711457439,40.8013434,39
+Degraw St & Hoyt St,3332,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99079024791718,40.681990442707026,19
+Columbia St & Lorraine St,3333,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.0075572,40.6747055,21
+Union St & 4 Ave,3335,Park Slope-Gowanus,Brooklyn,-73.98282002,40.6772744,28
+E 97 St & Madison Ave,3336,East Harlem South,Manhattan,-73.953559,40.787801,41
+Dwight St & Van Dyke St,3337,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.01195555925369,40.67363551341504,23
+2 Ave & E 99 St,3338,East Harlem South,Manhattan,-73.94552579,40.7862586,31
+Berkeley Pl & 6 Ave,3339,Park Slope-Gowanus,Brooklyn,-73.97846879,40.6765304,23
+Wolcott St & Dwight St,3340,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.0100698,40.6753274,21
+Pioneer St & Richards St,3342,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.0094613,40.6777748,23
+W 107 St & Columbus Ave,3343,Morningside Heights,Manhattan,-73.9621128676,40.7997568,23
+Pioneer St & Van Brunt St,3344,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.011169,40.679043,19
+Madison Ave & E 99 St,3345,East Harlem South,Manhattan,-73.95242929458618,40.78948541553215,35
+Berkeley Pl & 7 Ave,3346,Park Slope-Gowanus,Brooklyn,-73.97523209452629,40.675146838709786,0
+Van Brunt St & Wolcott St,3347,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.01275056,40.6773429,21
+Coffey St & Conover St,3348,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.015665,40.677236,19
+Grand Army Plaza & Plaza St West,3349,Park Slope-Gowanus,Brooklyn,-73.97087984,40.6729679,30
+W 100 St & Broadway,3350,Upper West Side,Manhattan,-73.97041192,40.7973721,39
+E 102 St & 1 Ave,3351,East Harlem South,Manhattan,-73.94164802,40.7869946,25
+Sigourney St & Columbia St,3352,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.0087952464819,40.67267243410948,21
+E 66 St & Madison Ave,3355,Upper East Side-Carnegie Hill,Manhattan,-73.96845281124115,40.76800889305947,25
+Amsterdam Ave & W 66 St,3356,Lincoln Square,Manhattan,-73.98470567,40.7746671,21
+W 106 St & Amsterdam Ave,3357,Morningside Heights,Manhattan,-73.9664492472,40.8008363,35
+Garfield Pl & 8 Ave,3358,Park Slope-Gowanus,Brooklyn,-73.97484126,40.6711978,25
+E 68 St & Madison Ave,3359,Upper East Side-Carnegie Hill,Manhattan,-73.96703464,40.7691572,41
+Carroll St & 6 Ave,3361,Park Slope-Gowanus,Brooklyn,-73.9787282,40.6740886,23
+Madison Ave & E 82 St,3362,Upper East Side-Carnegie Hill,Manhattan,-73.96069399,40.7781314,34
+E 102 St & Park Ave,3363,East Harlem South,Manhattan,-73.95033068,40.7904828,33
+Carroll St & 5 Ave,3364,Park Slope-Gowanus,Brooklyn,-73.9814832,40.6751622,27
+3 St & 7 Ave,3365,Park Slope-Gowanus,Brooklyn,-73.97839676,40.6703837,27
+West End Ave & W 107 St,3366,Morningside Heights,Manhattan,-73.9681805305,40.8021174,22
+5 Ave & E 103 St,3367,East Harlem South,Manhattan,-73.95249933,40.7922553,39
+5 Ave & 3 St,3368,Park Slope-Gowanus,Brooklyn,-73.98352355,40.6728155,30
+E 82 St & East End Ave,3369,Yorkville,Manhattan,-73.9468208,40.7724607,29
+E 78 St & 2 Ave,3370,Lenox Hill-Roosevelt Island,Manhattan,-73.95577801,40.7727966,25
+E 74 St & 1 Ave,3372,Lenox Hill-Roosevelt Island,Manhattan,-73.95482273,40.7689738,39
+3 St & 3 Ave,3373,Park Slope-Gowanus,Brooklyn,-73.98775226,40.6750705,27
+3 Ave & E 72 St,3375,Upper East Side-Carnegie Hill,Manhattan,-73.96060712,40.7699426,35
+E 65 St & 2 Ave,3376,Lenox Hill-Roosevelt Island,Manhattan,-73.96222069859505,40.76471851944339,39
+Carroll St & Bond St,3377,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99037292,40.6786115,25
+E 76 St & Park Ave,3378,Upper East Side-Carnegie Hill,Manhattan,-73.96222088,40.773763,28
+E 103 St & Lexington Ave,3379,East Harlem South,Manhattan,-73.94755757,40.7903051,35
+3 St & Hoyt St,3381,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99364123,40.6777287,21
+Carroll St & Smith St,3382,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99475825,40.680611,3
+Cathedral Pkwy & Broadway,3383,Morningside Heights,Manhattan,-73.96699104,40.804213,25
+Smith St & 3 St,3384,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99599099,40.6787242,25
+1 Pl & Clinton St,3386,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99905709,40.6809591,27
+E 106 St & Madison Ave,3387,East Harlem South,Manhattan,-73.94945003,40.7934337,25
+President St & Henry St,3388,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99990419,40.6828003,25
+Carroll St & Columbia St,3389,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00348559,40.6830456,3
+E 109 St & 3 Ave,3390,East Harlem South,Manhattan,-73.9432083,40.79329668,24
+E 106 St & 1 Ave,3391,East Harlem South,Manhattan,-73.93956237,40.7892529,25
+Commerce St & Van Brunt St,3392,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00860912,40.6812117,19
+Richards St & Delavan St,3393,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00785041,40.6794327,19
+Columbia St & W 9 St,3394,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00647134,40.6769993,21
+Henry St & W 9 St,3395,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00324957,40.6763744,19
+Clinton St & 4 Place,3396,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00014502,40.6783563,25
+Court St & Nelson St,3397,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99869893,40.6763947,25
+Smith St & 9 St,3398,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99785768,40.6746957,23
+7 St & 3 Ave,3399,Park Slope-Gowanus,Brooklyn,-73.98983001708984,40.67260298150126,24
+E 110 St & Madison Ave,3400,East Harlem South,Manhattan,-73.94782145,40.7961535,24
+Court St & State St,3402,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99203074,40.6902375,23
+4 Ave & 9 St,3403,Park Slope-Gowanus,Brooklyn,-73.98876585,40.6705135,31
+7 St & 5 Ave,3404,Park Slope-Gowanus,Brooklyn,-73.98541675,40.6704922,27
+5 St & 6 Ave,3405,Park Slope-Gowanus,Brooklyn,-73.98208968,40.6704836,23
+Union St & Nevins St,3407,Park Slope-Gowanus,Brooklyn,-73.98765474557877,40.67909799721684,23
+Congress St & Clinton St,3408,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-73.99520919,40.6881529,27
+Bergen St & Smith St,3409,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.99063168,40.6867443,35
+Dean St & Hoyt St,3410,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98759104,40.6864442,31
+Bond St & Bergen St,3411,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98620772,40.6849668,27
+Pacific St & Nevins St,3412,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98302136,40.6853761,18
+Bergen St & Flatbush Ave,3414,Park Slope-Gowanus,Brooklyn,-73.97567331790923,40.680944723477296,33
+Prospect Pl & 6 Ave,3415,Prospect Heights,Brooklyn,-73.97519523,40.6793307,25
+7 Ave & Park Pl,3416,Prospect Heights,Brooklyn,-73.97324283,40.6776147,25
+Baltic St & 5 Ave,3417,Park Slope-Gowanus,Brooklyn,-73.97854971,40.6795766,27
+Plaza St West & Flatbush Ave,3418,Park Slope-Gowanus,Brooklyn,-73.97111473,40.6750207,33
+Douglass St & 4 Ave,3419,Park Slope-Gowanus,Brooklyn,-73.98154004,40.6792788,27
+Douglass St & 3 Ave,3420,Park Slope-Gowanus,Brooklyn,-73.98432695,40.6802133,21
+Hoyt St & Warren St,3421,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98901629,40.6843549,23
+Columbia St & Degraw St,3422,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.00242364,40.6859296,21
+E 106 St & Lexington Ave,3424,East Harlem South,Manhattan,-73.945993,40.791976,27
+2 Ave & E 104 St,3425,East Harlem South,Manhattan,-73.94370784,40.7892105,33
+Hanson Pl & Ashland Pl,3429,Fort Greene,Brooklyn,-73.97790759801863,40.68506807308177,39
+Richardson St & N Henry St,3430,East Williamsburg,Brooklyn,-73.94223690032959,40.71907891179564,25
+Grand St & Elizabeth St,3435,park-cemetery-etc-Manhattan,Manhattan,-73.99596,40.718822,45
+Greenwich St & Hubert St,3436,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.010065,40.721319,35
+Riverside Dr & W 91 St,3437,Upper West Side,Manhattan,-73.97700369358063,40.79313480986663,39
+Fulton St & Adams St,3440,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98949474096298,40.692418292578466,43
+W 52 St & 6 Ave,3443,Midtown-Midtown South,Manhattan,-73.97982001304626,40.76132983124814,40
+Bayard St & Leonard St,3452,North Side-South Side,Brooklyn,-73.94885390996933,40.71915571696044,43
+Devoe St & Lorimer St,3453,East Williamsburg,Brooklyn,-73.9491033554077,40.71335226222875,19
+Leonard St & Maujer St,3454,East Williamsburg,Brooklyn,-73.94705951213837,40.7103685423523,24
+Jackson St & Leonard St,3456,East Williamsburg,Brooklyn,-73.94821286201477,40.71638031973561,22
+E 58 St & Madison Ave,3457,Midtown-Midtown South,Manhattan,-73.97209525108337,40.76302594280519,46
+Murray St & Greenwich St,3461,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.01122331619263,40.714851505262516,33
+E 44 St & 2 Ave,3462,Turtle Bay-East Midtown,Manhattan,-73.97138714790344,40.75118387463277,39
+E 16 St & Irving Pl,3463,Gramercy,Manhattan,-73.98797392845154,40.735367055605394,37
+W Broadway & Spring St,3467,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00165855884552,40.72494672359416,44
+India St & West St,3469,Greenpoint,Brooklyn,-73.95995020866394,40.73181401720966,23
+W 15 St & 10 Ave,3472,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00747358798981,40.742753828659026,39
+39 St & 2 Ave,3477,Sunset Park West,Brooklyn,-74.01062786579132,40.65539977447831,33
+2 Ave & 36 St,3478,Sunset Park West,Brooklyn,-74.00870203971863,40.65708866668485,43
+Picnic Point,3479,park-cemetery-etc-Manhattan,Manhattan,-74.02535319328308,40.68512559515415,45
+Schermerhorn St & Bond St,3486,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98451656103134,40.688417427540834,30
+E 116 St & 2 Ave,3490,park-cemetery-etc-Manhattan,Manhattan,-73.937261,40.796879,31
+E 118 St & 1 Ave,3491,park-cemetery-etc-Manhattan,Manhattan,-73.93504,40.79747,24
+E 118 St & Park Ave,3492,park-cemetery-etc-Manhattan,Manhattan,-73.9419949,40.8005385,27
+E 118 St & 3 Ave,3493,park-cemetery-etc-Manhattan,Manhattan,-73.9389152,40.799139,31
+E 115 St & Lexington Ave,3494,park-cemetery-etc-Manhattan,Manhattan,-73.9423,40.797911,25
+E 114 St & 1 Ave,3495,park-cemetery-etc-Manhattan,Manhattan,-73.9362541,40.7945663,26
+1 Ave & E 110 St,3496,park-cemetery-etc-Manhattan,Manhattan,-73.9383,40.7923272,25
+Pleasant Ave & E 116 St,3497,park-cemetery-etc-Manhattan,Manhattan,-73.9333349,40.7949879,23
+Pleasant Ave & E 120 St,3498,park-cemetery-etc-Manhattan,Manhattan,-73.9311847,40.7974772,21
+2 Ave & E 122 St,3499,park-cemetery-etc-Manhattan,Manhattan,-73.9349,40.8006721,25
+E 115 St & Madison Ave,3500,park-cemetery-etc-Manhattan,Manhattan,-73.944846,40.7989445,31
+E 118 St & Madison Ave,3501,park-cemetery-etc-Manhattan,Manhattan,-73.9442507,40.8014866,29
+Lexington Ave & E 111 St,3502,East Harlem South,Manhattan,-73.9441232,40.7954121,29
+Madison Ave & E 120 St,3503,park-cemetery-etc-Manhattan,Manhattan,-73.942954,40.80295,30
+E 123 St & Lexington Ave,3504,park-cemetery-etc-Manhattan,Manhattan,-73.9379,40.8029263,27
+Lexington Ave & E 127 St,3505,park-cemetery-etc-Manhattan,Manhattan,-73.936322,40.805726,33
+Lexington Ave & E 120 St,3506,park-cemetery-etc-Manhattan,Manhattan,-73.9398167,40.8013066,29
+Park Ave & E 124 St,3507,park-cemetery-etc-Manhattan,Manhattan,-73.9396861,40.8045555,36
+St Nicholas Ave & Manhattan Ave,3508,park-cemetery-etc-Manhattan,Manhattan,-73.953149,40.809725,31
+Lenox Ave & W 115 St,3509,park-cemetery-etc-Manhattan,Manhattan,-73.9500739,40.8011939,31
+Adam Clayton Powell Blvd & W 123 St,3510,park-cemetery-etc-Manhattan,Manhattan,-73.949373,40.8078316,31
+Adam Clayton Powell Blvd & W 115 St,3511,park-cemetery-etc-Manhattan,Manhattan,-73.9532423,40.802535,22
+21 St & Hoyt Ave S,3513,Steinway,Queens,-73.923706,40.774645,21
+Astoria Park S & Shore Blvd,3514,park-cemetery-etc-Queens,Queens,-73.927631,40.7767,23
+24 Ave & 26 St,3515,Steinway,Queens,-73.918544,40.774591,19
+31 St & Astoria Blvd,3516,Old Astoria,Queens,-73.9184057,40.7699176,31
+31 St & Hoyt Ave N,3517,Steinway,Queens,-73.9170074,40.7711528,35
+Lenox Ave & W 126 St,3518,park-cemetery-etc-Manhattan,Manhattan,-73.9452087,40.808442,34
+Adam Clayton Powell Blvd & W 118 St,3520,park-cemetery-etc-Manhattan,Manhattan,-73.951475,40.804372,27
+Lenox Ave & W 111 St,3521,park-cemetery-etc-Manhattan,Manhattan,-73.9523,40.7987859,36
+37 St & 24 Ave,3522,Steinway,Queens,-73.9120938,40.7701477,19
+24 Ave & 29 St,3523,Steinway,Queens,-73.916142,40.7729,25
+19 St & 24 Ave,3524,Steinway,Queens,-73.9225403,40.7774552,23
+23 Ave & 27 St,3525,Steinway,Queens,-73.9153175,40.776165,21
+31 St & 23 Ave,3526,Steinway,Queens,-73.9125551,40.7747878,27
+5 Ave & E 126 St,3527,park-cemetery-etc-Manhattan,Manhattan,-73.941747,40.80698,27
+Steinway St & 23 Ave,3528,Steinway,Queens,-73.9077436,40.7713937,21
+Lenox Ave & W 130 St,3529,Central Harlem North-Polo Grounds,Manhattan,-73.9430681,40.8107922,25
+Crescent St & Ditmars Blvd,3530,Steinway,Queens,-73.9145645,40.7787185,19
+Frederick Douglass Blvd & W 129 St,3531,Central Harlem North-Polo Grounds,Manhattan,-73.9492286,40.8125511,27
+Ditmars Blvd & 19 St,3532,park-cemetery-etc-Queens,Queens,-73.9183302,40.78145,27
+St. Nicholas Ave & W 126 St,3533,Central Harlem North-Polo Grounds,Manhattan,-73.9518776,40.8114323,34
+Frederick Douglass Blvd & W 117 St,3534,park-cemetery-etc-Manhattan,Manhattan,-73.954692,40.805159,39
+Mt Morris Park W & W 120 St,3535,park-cemetery-etc-Manhattan,Manhattan,-73.945925,40.804038,27
+W 116 St & Broadway,3536,Morningside Heights,Manhattan,-73.9641,40.8082,43
+Carlton Ave & Dean St,3537,Prospect Heights,Brooklyn,-73.9710097,40.6809741,29
+W 110 St & Amsterdam Ave,3538,Morningside Heights,Manhattan,-73.96295,40.802692,45
+W 116 St & Amsterdam Ave,3539,Morningside Heights,Manhattan,-73.9607082,40.8067581,43
+Morningside Ave & W 123 St,3540,Morningside Heights,Manhattan,-73.9551508,40.81,35
+Amsterdam Ave & W 125 St,3541,Morningside Heights,Manhattan,-73.956461,40.813358,39
+Amsterdam Ave & W 119 St,3542,Morningside Heights,Manhattan,-73.9596214,40.8086249,29
+Morningside Dr & Amsterdam Ave,3543,Morningside Heights,Manhattan,-73.95736455917358,40.81028506306003,35
+Underhill Ave & Pacific St,3544,Prospect Heights,Brooklyn,-73.9646795,40.6804836,27
+Broadway & W 122 St,3545,Morningside Heights,Manhattan,-73.9612547,40.8120562,33
+Pacific St & Classon Ave,3546,Crown Heights North,Brooklyn,-73.9587903,40.6791944,21
+Broadway & Moylan Pl,3547,Morningside Heights,Manhattan,-73.9590255,40.8143256,41
+Grand Ave & Bergen St,3549,Prospect Heights,Brooklyn,-73.962408,40.678045,25
+3 Ave & E 112 St,3551,park-cemetery-etc-Manhattan,Manhattan,-73.941606,40.795508,23
+W 113 St & Broadway,3552,Morningside Heights,Manhattan,-73.964928,40.805973,39
+Frederick Douglass Blvd & W 112 St,3553,park-cemetery-etc-Manhattan,Manhattan,-73.957145,40.801694,37
+Vernon Blvd & 41 Rd,3554,Queensbridge-Ravenswood-Long Island City,Queens,-73.9485678,40.7552433,27
+28 St & 41 Ave,3555,Queensbridge-Ravenswood-Long Island City,Queens,-73.93797,40.751047,27
+40 Ave & 9 St,3557,Queensbridge-Ravenswood-Long Island City,Queens,-73.945133,40.75742,19
+Bergen St & Vanderbilt Ave,3558,Prospect Heights,Brooklyn,-73.9680438,40.6794388,27
+21 St & 38 Ave,3559,Queensbridge-Ravenswood-Long Island City,Queens,-73.9391224,40.7576314,19
+37 Ave & 35 St,3561,Queensbridge-Ravenswood-Long Island City,Queens,-73.9279917,40.7531106,26
+Classon Ave & St Marks Ave,3562,Crown Heights North,Brooklyn,-73.9596082,40.6765198,27
+28 St & 36 Ave,3563,Queensbridge-Ravenswood-Long Island City,Queens,-73.932719,40.757186,29
+21 St & 36 Ave,3564,Astoria,Queens,-73.9362726,40.7601853,19
+36 Ave & 10 St,3565,Queensbridge-Ravenswood-Long Island City,Queens,-73.9411265,40.7614376,19
+Crescent St & 35 Ave,3566,Astoria,Queens,-73.9321455,40.7596276,25
+11 St & 35 Ave,3567,Queensbridge-Ravenswood-Long Island City,Queens,-73.9391141,40.7627442,19
+34 St & 35 Ave,3568,Astoria,Queens,-73.9262231,40.7569332,21
+Franklin Ave & St Marks Ave,3569,Crown Heights North,Brooklyn,-73.9561677,40.6758324,29
+35 Ave & 37 St,3570,Astoria,Queens,-73.9236611,40.7557327,31
+Bedford Ave & Bergen St,3571,Crown Heights North,Brooklyn,-73.952918,40.676368,24
+34 Ave & 38 St,3572,Astoria,Queens,-73.921631,40.756913,33
+35 St & 34 Ave,3573,Astoria,Queens,-73.9242751,40.7580583,25
+Prospect Pl & Underhill Ave,3574,Prospect Heights,Brooklyn,-73.96579,40.6769694,23
+Crescent St & 34 Ave,3575,Astoria,Queens,-73.930562,40.76108,19
+Park Pl & Vanderbilt Ave,3576,Prospect Heights,Brooklyn,-73.969024,40.6767,27
+34 Ave & 21 St,3577,Queensbridge-Ravenswood-Long Island City,Queens,-73.9342862,40.7628138,23
+Park Pl & Franklin Ave,3578,Crown Heights North,Brooklyn,-73.9564947,40.6741806,21
+Sterling Pl & Bedford Ave,3579,Crown Heights North,Brooklyn,-73.954131,40.672695,25
+St Johns Pl & Washington Ave,3580,Prospect Heights,Brooklyn,-73.9631611,40.6737236,30
+Underhill Ave & Lincoln Pl,3581,Prospect Heights,Brooklyn,-73.9671457,40.6740123,27
+Lincoln Pl & Classon Ave,3582,Crown Heights North,Brooklyn,-73.9609,40.6721683,28
+Eastern Pkwy & Franklin Ave,3584,Crown Heights North,Brooklyn,-73.9576801,40.6707767,42
+Union St & Bedford Ave,3585,Crown Heights South,Brooklyn,-73.9554162,40.6691783,24
+34 Ave & 13 St,3586,Queensbridge-Ravenswood-Long Island City,Queens,-73.9364848,40.7638753,19
+Carroll St & Washington Ave,3587,Crown Heights South,Brooklyn,-73.9618148,40.6686744,27
+Vernon Blvd & 10 St,3588,Astoria,Queens,-73.9373554,40.7671863,21
+Broadway & 12 St,3589,Astoria,Queens,-73.9347774,40.7668,19
+Carroll St & Franklin Ave,3590,Crown Heights South,Brooklyn,-73.9588,40.6679411,19
+21 St & 31 Dr,3591,Astoria,Queens,-73.930819,40.7659,21
+Crescent St & Broadway,3592,Astoria,Queens,-73.9286471,40.7633589,19
+31 St & Broadway,3593,Astoria,Queens,-73.925921,40.761584,35
+35 St & Broadway,3595,Astoria,Queens,-73.9222427,40.760339,18
+Sullivan Pl & Bedford Ave,3596,Prospect Lefferts Gardens-Wingate,Brooklyn,-73.9574686,40.6642406,19
+43 St & Broadway,3597,Astoria,Queens,-73.9166368,40.7577284,25
+Newton Rd & 44 St,3598,Astoria,Queens,-73.9142678,40.7595701,19
+Franklin Ave & Empire Blvd,3599,Prospect Lefferts Gardens-Wingate,Brooklyn,-73.9605695,40.66314,0
+31 Ave & Steinway St,3600,Astoria,Queens,-73.9170071,40.7611488,27
+Sterling St & Bedford Ave,3601,Prospect Lefferts Gardens-Wingate,Brooklyn,-73.9569115,40.6627059,19
+31 Ave & 34 St,3602,Astoria,Queens,-73.920827,40.763154,23
+31 Ave & 30 St,3603,Astoria,Queens,-73.9240312,40.7647,21
+Rogers Ave & Sterling St,3604,Prospect Lefferts Gardens-Wingate,Brooklyn,-73.9538746,40.6630619,17
+31 Ave & Crescent St,3605,Old Astoria,Queens,-73.9265474,40.7658346,21
+49 Ave & 21 St,3606,Hunters Point-Sunnyside-West Maspeth,Queens,-73.948852,40.74252,21
+31 Ave & 14 St,3607,Astoria,Queens,-73.9322662,40.7682,19
+5 St & 51 Ave,3608,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9566,40.7423737,21
+Vernon Blvd & 31 Ave,3609,Old Astoria,Queens,-73.9354504,40.7692475,23
+Vernon Blvd & 30 Rd,3610,Old Astoria,Queens,-73.934171,40.770845,27
+Vernon Blvd & 47 Rd,3611,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9534573,40.7449067,31
+30 Ave & 21 St,3612,Old Astoria,Queens,-73.9286078,40.7703743,15
+Center Blvd & 48 Ave,3613,Hunters Point-Sunnyside-West Maspeth,Queens,-73.957539,40.745038,27
+Crescent St & 30 Ave,3614,Old Astoria,Queens,-73.9249574,40.768692,23
+44 Dr & 21 St,3615,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9460927,40.748,21
+Steinway St & 28 Ave,3616,Astoria,Queens,-73.9136695,40.7656251,25
+28 Ave & 35 St,3617,Astoria,Queens,-73.9169858,40.7671,27
+27 St & Hunter St,3618,Hunters Point-Sunnyside-West Maspeth,Queens,-73.941275,40.7485,33
+Newtown Ave & 23 St,3619,Old Astoria,Queens,-73.9246145,40.7713615,16
+11 St & 43 Ave,3620,Hunters Point-Sunnyside-West Maspeth,Queens,-73.9479119,40.7519071,23
+27 Ave & 9 St,3621,Old Astoria,Queens,-73.9309134,40.7739825,19
+E 128 St & Madison Ave,3622,Central Harlem North-Polo Grounds,Manhattan,-73.939182,40.80756,23
+W 120 St & Claremont Ave,3623,Morningside Heights,Manhattan,-73.9634,40.8109494,39
+Lenox Ave & W 117 St,3628,park-cemetery-etc-Manhattan,Manhattan,-73.9490782,40.8025566,31
+Adam Clayton Powell Blvd & W 126 St,3629,park-cemetery-etc-Manhattan,Manhattan,-73.94776493310928,40.809495347779475,33
+Frederick Douglass Blvd & W 115 St,3630,park-cemetery-etc-Manhattan,Manhattan,-73.9559308,40.8038654,33
+Fulton St & Waverly Ave,3637,Clinton Hill,Brooklyn,-73.96599590778351,40.683238654603414,31
+Broadway & W 25 St,3641,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.98918628692627,40.74286877312112,54
+35 Ave & 10 St,3646,Queensbridge-Ravenswood-Long Island City,Queens,-73.93985509872437,40.76315481910373,26
+48 Ave & 30 Pl,3647,Hunters Point-Sunnyside-West Maspeth,Queens,-73.93725872039794,40.74128309355993,23
+Flushing Ave & Vanderbilt Ave,3648,park-cemetery-etc-Brooklyn,Brooklyn,-73.97077560424805,40.697950315695444,25
+W 129 St & Convent Ave,3649,Manhattanville,Manhattan,-73.95324736833572,40.814394437915816,30
+31 St & Northern Blvd,3654,Queensbridge-Ravenswood-Long Island City,Queens,-73.93349289894103,40.75186951421875,35
+E 2 St & Avenue A,3656,East Village,Manhattan,-73.98583620786667,40.72307749068673,46
+W 18 St & 9 Ave,3658,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.00367558002472,40.7435337324616,27
+Montgomery St & Franklin Ave,3661,Crown Heights South,Brooklyn,-73.9605563879013,40.666439306870814,19
+North Moore St & Greenwich St,3664,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.0103006362915,40.72019521437465,30
+Leonard St & Nassau Ave,3668,Greenpoint,Brooklyn,-73.94984364509583,40.7239567849954,26
+E 81 St & 2 Ave,3671,Yorkville,Manhattan,-73.95427465438843,40.774779448957275,37
+Dean St & Franklin Ave,3673,Crown Heights North,Brooklyn,-73.955637216568,40.67759206937376,21
+Jay St & York St,3674,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.98672670125961,40.701403172577244,27
+Van Brunt St & Van Dyke St,3676,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,-74.01472628116608,40.6758329439129,24
+E 43 St & 5 Ave,3680,Midtown-Midtown South,Manhattan,-73.98025184869766,40.754120810779256,55
+Gansevoort St & Hudson St,3686,West Village,Manhattan,-74.00507032871246,40.739448201304036,39
+E 33 St & 1 Ave,3687,Murray Hill-Kips Bay,Manhattan,-73.97449783980846,40.74322681432173,83
+W 104 St & Amsterdam Ave,3689,Upper West Side,Manhattan,-73.96649479866028,40.799041392882984,47
+Park Pl & Church St,3690,Battery Park City-Lower Manhattan,Manhattan,-74.00935515761375,40.71334184275907,36
+28 Ave & 44 St,3691,Astoria,Queens,-73.91065120697021,40.76408932350688,0
+N 11 St & Kent Ave,3693,North Side-South Side,Brooklyn,-73.95921930670738,40.72248188638219,27
+W 64 St & Thelonious Monk Circle,3697,Lincoln Square,Manhattan,-73.98918695747852,40.77515953434235,43
+W 50 St & 9 Ave,3699,Clinton,Manhattan,-73.98917958140373,40.763604677958625,30
+47 Ave & Skillman Ave,3704,Hunters Point-Sunnyside-West Maspeth,Queens,-73.94176483154297,40.7437524099784,19
+Lexington Ave & E 26 St,3707,Gramercy,Manhattan,-73.983293,40.741459,55
+W 13 St & 5 Ave,3708,West Village,Manhattan,-73.99431,40.735445,29
+W 15 St & 6 Ave,3709,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99642959237099,40.738046142482766,51
+E 13 St & Avenue A,3711,East Village,Manhattan,-73.98067966103554,40.72966729392978,47
+W 35 St & Dyer Ave,3712,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99740189313889,40.754691750226016,41
+Division Ave & Hooper St,3714,Williamsburg,Brooklyn,-73.9544353965357,40.70684203101325,61
+Driggs Ave & N 9 St,3715,North Side-South Side,Brooklyn,-73.95520135760307,40.71816969454208,31
+40 Ave & Crescent St,3716,Queensbridge-Ravenswood-Long Island City,Queens,-73.93795609474182,40.753599202005596,23
+E 11 St & Avenue B,3718,East Village,Manhattan,-73.97950418293476,40.72746420692392,46
+31 St & Newtown Ave,3721,Old Astoria,Queens,-73.9209334552288,40.7675487799971,35
+Cadman Plaza E & Johnson St,3723,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.99015724658966,40.695317277669034,30
+7 Ave & Central Park South,3724,Midtown-Midtown South,Manhattan,-73.9790689945221,40.7667405590595,39
+2 Ave & E 72 St,3725,Lenox Hill-Roosevelt Island,Manhattan,-73.95840793848038,40.7687620293096,41
+Center Blvd & 51 Ave,3726,Hunters Point-Sunnyside-West Maspeth,Queens,-73.95960688591003,40.743366080270214,23
+Frost St & Meeker Ave,3727,North Side-South Side,Brooklyn,-73.94880026578903,40.71766197083994,38
+Pierrepont St & Monroe Pl,3728,Brooklyn Heights-Cobble Hill,Brooklyn,-73.99344027042389,40.69535693320225,24
+W 47 St & 6 Ave,3731,Midtown-Midtown South,Manhattan,-73.98255,40.758397,46
+Avenue C & E 18 St,3733,Stuyvesant Town-Cooper Village,Manhattan,-73.973984,40.730563,46
+E 58 St &  1 Ave (NW Corner),3734,Turtle Bay-East Midtown,Manhattan,-73.962658,40.759125,50
+W 30 St & 10 Ave,3735,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.002353,40.752694,38
+E 12 St & Ave C,3736,Lower East Side,Manhattan,-73.976831,40.727243,0
+Stanton St & Norfolk St,3737,Chinatown,Manhattan,-73.986274,40.720747,35
+Delancey St & Eldridge St,3738,Chinatown,Manhattan,-73.991479,40.719383,31
+Perry St & Greenwich Ave,3739,West Village,Manhattan,-74.000939,40.735918,37
+W Broadway & W Houston St,3740,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.000472,40.726378,34
+1 Ave & E 5 St,3744,East Village,Manhattan,-73.986389,40.725864,51
+36 Ave & 31 St,3745,Astoria,Queens,-73.92957486212252,40.75651272984955,27
+6 Ave & Broome St,3746,SoHo-TriBeCa-Civic Center-Little Italy,Manhattan,-74.00473035871983,40.724308321602166,48
+Lexington Ave & E 36 St,3749,Murray Hill-Kips Bay,Manhattan,-73.9788007736206,40.747573958954796,0
+DeKalb Ave & Franklin Ave,3755,Bedford,Brooklyn,-73.95746178925037,40.69064807082943,19
+White St & Moore St,3756,Bushwick South,Brooklyn,-73.9351,40.704508,21
+Stagg St & Morgan Ave,3757,Bushwick South,Brooklyn,-73.93372,40.710681,23
+George St & Wilson Ave,3758,Bushwick South,Brooklyn,-73.92997,40.702997,19
+Irving Ave & Jefferson St,3759,Bushwick North,Brooklyn,-73.92535,40.70538,19
+Willoughby Ave & Wyckoff Ave,3760,Bushwick North,Brooklyn,-73.92153,40.705614,23
+Cedar St & Myrtle Ave,3761,Bushwick South,Brooklyn,-73.926241,40.697842,27
+3 Ave & Carroll St,3762,Park Slope-Gowanus,Brooklyn,-73.9865,40.677027,27
+Wyckoff Av & Jefferson St,3763,Bushwick North,Brooklyn,-73.923711,40.707165,27
+Bushwick Ave & McKibbin St,3764,Bushwick South,Brooklyn,-73.93936,40.705517,21
+Bushwick Ave & Stagg St,3765,Bushwick South,Brooklyn,-73.94008,40.709897,21
+Sharon St & Olive St,3766,East Williamsburg,Brooklyn,-73.93856,40.715353,24
+Powers St & Olive St,3767,East Williamsburg,Brooklyn,-73.93894,40.71323,0
+Waterbury St & Stagg St,3768,Bushwick South,Brooklyn,-73.93734,40.71019,23
+White St & Johnson Ave,3769,Bushwick South,Brooklyn,-73.93581,40.707174,23
+Central Ave & Flushing Ave,3770,Bushwick South,Brooklyn,-73.9333,40.702831,21
+McKibbin St & Bogart St,3771,Bushwick South,Brooklyn,-73.933871,40.706237,30
+Devoe St & Morgan Ave,3772,East Williamsburg,Brooklyn,-73.93515,40.713811,19
+Knickerbocker Ave & Thames St,3773,Bushwick North,Brooklyn,-73.92976,40.70539,20
+Knickerbocker Ave & George St,3774,Bushwick North,Brooklyn,-73.92836,40.704425,23
+Suydam St & Knickerbocker Ave,3775,Bushwick North,Brooklyn,-73.923769,40.702013,27
+Central Ave & Starr Street,3776,Bushwick South,Brooklyn,-73.92834,40.700003,23
+Stockholm St & Wilson Ave,3777,Bushwick North,Brooklyn,-73.923044,40.699304,23
+Irving Ave & DeKalb Ave,3778,Bushwick North,Brooklyn,-73.92095,40.7027,27
+Hart St & Wyckoff Ave,3779,Bushwick North,Brooklyn,-73.919911,40.704876,24
+Wyckoff Av & Stanhope St,3780,Bushwick North,Brooklyn,-73.917775,40.703545,22
+Greene Av & Myrtle Av,3781,Bushwick North,Brooklyn,-73.918877,40.698568,30
+Brooklyn Bridge Park - Pier 2,3782,Brooklyn Heights-Cobble Hill,Brooklyn,-73.997178,40.698458,31
+Cliff St & Fulton St,3783,park-cemetery-etc-Manhattan,Manhattan,-74.00495,40.70838,73
+W 42 St & 6 Ave,3785,Midtown-Midtown South,Manhattan,-73.98455,40.75492,37
+Division St & Bowery,3786,Chinatown,Manhattan,-73.996732,40.714193,49
+Dock 72 Way & Market St,3787,park-cemetery-etc-Brooklyn,Brooklyn,-73.97141,40.69985,22
+Fulton St & Irving Pl,3789,Clinton Hill,Brooklyn,-73.959432,40.68186,31
+Henry St & Middagh St,3790,Brooklyn Heights-Cobble Hill,Brooklyn,-73.991581,40.7003,37
+10 St & 2 Ave,3795,Park Slope-Gowanus,Brooklyn,-73.993612,40.671907,19
+W 40 St & 5 Ave,3798,Midtown-Midtown South,Manhattan,-73.982079,40.752269,55
+6 Ave & W 34 St,3799,Midtown-Midtown South,Manhattan,-73.98805,40.74964,67
+Bedford Ave & Montgomery St,3803,Crown Heights South,Brooklyn,-73.956934,40.665816,27
+Front St & Jay St,3804,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.986842,40.702461,24
+24 St & 41 Ave,3808,Queensbridge-Ravenswood-Long Island City,Queens,-73.939991,40.752474,19
+W 55 St & 6 Ave,3809,Midtown-Midtown South,Manhattan,-73.978434,40.763189,53
+27 Ave & 3 St,3811,Old Astoria,Queens,-73.9342,40.77485,19
+University Pl & E 14 St,3812,West Village,Manhattan,-73.992085,40.734814,49
+W 20 St & 10 Ave,3813,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-74.005141,40.745686,49
+E 56 St & Madison Ave,3814,Midtown-Midtown South,Manhattan,-73.972628,40.761573,23
+E 51 St & 2 Ave,3815,Turtle Bay-East Midtown,Manhattan,-73.967641,40.755293,41
+Metropolitan Ave & Vandervoort Ave,3816,East Williamsburg,Brooklyn,-73.93323,40.71429,24
+Withers St & Kingsland Ave,3817,East Williamsburg,Brooklyn,-73.94051,40.71773,18
+Calyer St & Jewel St,3818,Greenpoint,Brooklyn,-73.94839,40.72984,40
+Green St & McGuinness Blvd,3819,Greenpoint,Brooklyn,-73.95204,40.73396,20
+Willoughby Ave & Myrtle Ave,3820,Bushwick South,Brooklyn,-73.93098,40.69757,19
+Evergreen Ave & Noll St,3821,Bushwick South,Brooklyn,-73.93318,40.70106,25
+Bushwick Ave & Forrest St,3822,Bushwick South,Brooklyn,-73.93641,40.70076,20
+Beaver St & Fayette St,3823,Bushwick South,Brooklyn,-73.93921,40.70099,30
+Van Sinderen Ave & Truxton St,3824,Ocean Hill,Brooklyn,-73.90369,40.6786,23
+Broadway & Furman Ave,3825,Bushwick South,Brooklyn,-73.90756,40.68139,29
+Moffat St & Bushwick,3826,Bushwick South,Brooklyn,-73.90925,40.68458,18
+Halsey St & Broadway,3827,Ocean Hill,Brooklyn,-73.91564,40.68565,20
+Eldert St & Bushwick Ave,3828,Bushwick South,Brooklyn,-73.91321,40.68652,22
+Central Ave & Decatur St,3829,Bushwick South,Brooklyn,-73.90798,40.6882,24
+Halsey St & Evergreen Ave,3830,Bushwick South,Brooklyn,-73.91227,40.68858,22
+Broadway & Hancock St,3831,Bushwick South,Brooklyn,-73.9168,40.68663,35
+Central Ave & Weirfield St,3832,Bushwick South,Brooklyn,-73.91181,40.69055,21
+Madison St & Evergreen Ave,3833,Bushwick South,Brooklyn,-73.91693,40.69122,18
+Irving Ave & Halsey St,3834,Bushwick North,Brooklyn,-73.90663,40.69467,19
+Knickerbocker Ave & Hancock St,3835,Bushwick North,Brooklyn,-73.90974,40.69385,22
+Bushwick Ave & Linden St,3836,Bushwick South,Brooklyn,-73.92146,40.69146,29
+Broadway & Kosciuszko St,3837,Bushwick South,Brooklyn,-73.92852,40.69329,29
+Bushwick Ave & Harman St,3838,Bushwick South,Brooklyn,-73.92524,40.69356,25
+Putnam Ave & Knickerbocker Ave,3839,Bushwick North,Brooklyn,-73.91164,40.69545,29
+Putnam Ave & Wyckoff Ave,3840,Bushwick North,Brooklyn,-73.90904,40.69811,24
+Menahan St & Central Ave,3841,Bushwick South,Brooklyn,-73.9196,40.69543,25
+Bushwick Ave & Dekalb Ave,3842,Bushwick South,Brooklyn,-73.92825,40.69502,29
+Myrtle Ave & Grove St,3843,Bushwick North,Brooklyn,-73.91516,40.69905,23
+Myrtle Ave & Linden St,3844,Bushwick North,Brooklyn,-73.91337,40.69943,25
+Irving Ave & Harman St,3845,Bushwick North,Brooklyn,-73.9179,40.70108,21
+Central Ave & Himrod St,3846,Bushwick South,Brooklyn,-73.92302,40.69676,25
+Cedar St & Evergreen Ave,3847,Bushwick South,Brooklyn,-73.92807,40.69671,25
+Suydam St & Broadway,3848,Bushwick South,Brooklyn,-73.93223,40.69544,32
+Suydam St & St. Nicholas Ave,3849,Bushwick North,Brooklyn,-73.91945,40.70636,17
+Jefferson St & Cypress Ave,3850,Bushwick North,Brooklyn,-73.92157,40.70907,25
+Metropolitan Ave & Stewart Ave,3851,East Williamsburg,Brooklyn,-73.92793,40.71401,20
+Stewart Ave & Johnson Ave,3852,Bushwick North,Brooklyn,-73.92587,40.70869,17
+Harrison Pl & Porter Ave,3853,Bushwick North,Brooklyn,-73.92851,40.70686,20
+Morgan Ave & Maspeth Ave,3854,East Williamsburg,Brooklyn,-73.93637,40.716657,25
+Frost St & Debevoise Ave,3855,East Williamsburg,Brooklyn,-73.93948,40.71882,22
+Kingsland Ave & Nassau Ave,3856,Greenpoint,Brooklyn,-73.94173,40.72577,25
+Engert Ave & McGuinness Blvd,3857,Greenpoint,Brooklyn,-73.94546,40.72158,19
+Kent St & McGuinness Blvd,3858,Greenpoint,Brooklyn,-73.95161,40.73124,20
+Lorimer St & Calyer St,3859,Greenpoint,Brooklyn,-73.95414,40.72795,20
+Wilson Ave & Troutman St,3860,Bushwick South,Brooklyn,-73.92754,40.70166,26
+Menahan St & Wyckoff Ave,3861,Bushwick North,Brooklyn,-73.91422,40.70113,20
+Linden St & Knickerbocker Ave,3862,Bushwick North,Brooklyn,-73.91566,40.69714,18
+Central Ave & Woodbine St,3863,Bushwick South,Brooklyn,-73.91605,40.69296,18
+Central Ave & Covert St,3864,Bushwick South,Brooklyn,-73.90951,40.68929,30
+Knickerbocker Ave & Cooper St,3865,Bushwick North,Brooklyn,-73.90448,40.69081,24
+Wilson Ave & Moffat St,3866,Bushwick North,Brooklyn,-73.90506,40.68906,32
+Somers St & Broadway,3867,Ocean Hill,Brooklyn,-73.90474,40.67945,29
+Knickerbocker Ave & Halsey St,3868,Bushwick North,Brooklyn,-73.90824,40.693,19
+Van Buren St & Broadway,3869,Bushwick South,Brooklyn,-73.92617,40.692,24
+Melrose St & Broadway,3870,Bushwick South,Brooklyn,-73.935877,40.697481,20
+Bushwick Ave & Furman Ave,3871,Bushwick South,Brooklyn,-73.90623,40.68281,30
+Hancock St & Wyckoff Ave,3872,Ridgewood,Queens,-73.90674,40.6972,19
+Madison St & Cypress Ave,3873,Ridgewood,Queens,-73.90742,40.70068,17
+Menahan St & Seneca Ave,3874,Ridgewood,Queens,-73.91054,40.70461,16
+Stephen St & Seneca Ave,3875,Ridgewood,Queens,-73.9007,40.6988,15
+Forest Ave & Summerfield St,3876,Ridgewood,Queens,-73.89795,40.69922,23
+Madison St & Forest Ave,3877,Ridgewood,Queens,-73.90245,40.70555,25
+Cypress Ave & George St,3878,Ridgewood,Queens,-73.90271,40.69812,19
+Broadway & Madison St,3879,Bushwick South,Brooklyn,-73.91966,40.68822,25
+Willoughby Ave & Onderdonk Ave,3880,Ridgewood,Queens,-73.91727,40.7098,27
+12 Ave & W 125 St,3881,Manhattanville,Manhattan,-73.960405,40.818299,39
+Norman St & Wyckoff Ave,3882,Ridgewood,Queens,-73.90311,40.69517,15
+Harman St & Seneca Ave,3883,Ridgewood,Queens,-73.91292,40.70577,0
+Centre St & Seneca Ave,3884,Ridgewood,Queens,-73.9022,40.69969,23
+Onderdonk Ave & Gates Ave,3885,Ridgewood,Queens,-73.90737,40.70413,0
+Menahan St & Onderdonk Ave,3886,Ridgewood,Queens,-73.9096,40.70553,20
+Flushing Ave & Woodward Ave,3887,Ridgewood,Queens,-73.91873,40.71246,21
+Woodward Ave & Harman St,3888,Ridgewood,Queens,-73.91092,40.70793,19
+Grove St & Broadway,3890,Bushwick South,Brooklyn,-73.923511,40.69047,31
+Irving Ave & Palmetto St,3891,Bushwick North,Brooklyn,-73.9127,40.698,20
+38 Ave & 29 St,3892,Queensbridge-Ravenswood-Long Island City,Queens,-73.93367,40.75473,19
+Rockaway Ave & Bainbridge St,3893,Ocean Hill,Brooklyn,-73.91166642308235,40.68319988172761,25
+Cypress Ave & Palmetto St,3895,Ridgewood,Queens,-73.90876293182373,40.701573408737914,25
+Madison St & Seneca Ave,3896,Ridgewood,Queens,-73.90625,40.70183,22
+Onderdonk Ave & Dekalb Ave,3897,Ridgewood,Queens,-73.91497,40.70863,17
+E 63 St & 3 Ave,3898,Lenox Hill-Roosevelt Island,Manhattan,-73.9646,40.763954,57
+Manhattan Av & Leonard St,3899,Greenpoint,Brooklyn,-73.94844,40.72084,18
+Morgan Ave & Lombardy St,3900,East Williamsburg,Brooklyn,-73.93889,40.72226,30
+Stanhope St & Fairview Ave,3901,Ridgewood,Queens,-73.91116,40.70998,17
+Fairview Ave & Linden St,3902,Ridgewood,Queens,-73.90632,40.70694,19
+Jefferson Ave & Evergreen Ave,3903,Bushwick South,Brooklyn,-73.91458,40.68989,17
+4 Ave & E 12 St,3905,West Village,Manhattan,-73.99011,40.732647,27
+West St & Liberty St,3906,Battery Park City-Lower Manhattan,Manhattan,-74.014847,40.711444,32
+Central Ave & Melrose St,3907,Bushwick South,Brooklyn,-73.93039,40.70112,17
+Madison St & Woodward Ave,3909,Ridgewood,Queens,-73.90408,40.70408,20
+Greene Ave & Grandview Ave,3910,Ridgewood,Queens,-73.907856,40.709697,17
+Wyckoff St & Nevins St,3911,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn,-73.984275,40.683426,22
+Sands St Gate,3913,park-cemetery-etc-Brooklyn,Brooklyn,-73.979827,40.699569,19
+West End Ave & W 78 St,3914,Upper West Side,Manhattan,-73.981687,40.783786,39
+Pearl St & Peck Slip,3916,park-cemetery-etc-Manhattan,Manhattan,-74.002751,40.708485,45
+Willoughby St & Ashland Pl,3917,Fort Greene,Brooklyn,-73.97877,40.69178,31
+Avenue D & E 8 St,3918,Lower East Side,Manhattan,-73.975767,40.72387,30
+Wall St & South St,3919,Battery Park City-Lower Manhattan,Manhattan,-74.00637,40.70437,37
+E 132 St & Madison Ave,3920,park-cemetery-etc-Manhattan,Manhattan,-73.937195,40.810224,19
+Willis Ave & Bruckner Blvd,3921,park-cemetery-etc-Manhattan,Manhattan,-73.925177,40.805701,19
+Alexander Ave & E 134 St,3922,park-cemetery-etc-Manhattan,Manhattan,-73.927107,40.807466,19
+Lincoln Ave & E 134 St,3923,park-cemetery-etc-Manhattan,Manhattan,-73.928803,40.808484,17
+Lincoln Ave & E 138 St,3924,park-cemetery-etc-Manhattan,Manhattan,-73.927311,40.810893,25
+E 138 St & Canal St W,3925,park-cemetery-etc-Manhattan,Manhattan,-73.929153,40.812304,21
+5 Ave & W 131 St,3926,Central Harlem North-Polo Grounds,Manhattan,-73.93973,40.81014,20
+Lenox Ave & W 133 St,3927,Central Harlem North-Polo Grounds,Manhattan,-73.941878,40.81296,27
+Adam Clayton Powell Blvd & W 132 St,3928,Central Harlem North-Polo Grounds,Manhattan,-73.94521,40.813539,18
+Willis Ave & E 141 St,3929,park-cemetery-etc-Manhattan,Manhattan,-73.921606,40.81093,19
+E 142 St & 3 Ave,3930,park-cemetery-etc-Manhattan,Manhattan,-73.923697,40.812735,19
+Morris Ave & E 142 St,3931,park-cemetery-etc-Manhattan,Manhattan,-73.924963,40.814469,23
+Grand Concourse & E 144 St,3932,park-cemetery-etc-Manhattan,Manhattan,-73.927987,40.816576,23
+Gerard Ave & E 146 St,3933,West Concourse,Bronx,-73.92965,40.817755,19
+St Nicholas Ave & E 134 St,3934,Central Harlem North-Polo Grounds,Manhattan,-73.948222,40.816234,27
+Amsterdam Ave & W 131 St,3935,Manhattanville,Manhattan,-73.954295,40.816355,19
+W 133 St & 12 Ave,3936,Manhattanville,Manhattan,-73.959089,40.820003,19
+E 135 St & St Ann's Ave,3937,park-cemetery-etc-Manhattan,Manhattan,-73.918889,40.805089,23
+E 133 St & Cypress Pl,3938,park-cemetery-etc-Manhattan,Manhattan,-73.9174,40.80262,0
+Willow Ave & E 133 St,3939,Mott Haven-Port Morris,Bronx,-73.913863,40.800933,21
+E 134 St & Walnut Ave,3940,Mott Haven-Port Morris,Bronx,-73.911034,40.800425,16
+Walnut Ave & E 136 St,3941,Mott Haven-Port Morris,Bronx,-73.909513,40.801657,17
+Broadway & W 133 St,3942,Manhattanville,Manhattan,-73.956156,40.8190344,21
+Convent Ave & W 135 St,3944,Manhattanville,Manhattan,-73.950988,40.818215,30
+Amsterdam Ave & W 136 St,3945,Manhattanville,Manhattan,-73.951819,40.819746,21
+St Nicholas Ave & W 137 St,3946,park-cemetery-etc-Manhattan,Manhattan,-73.947568,40.818477,21
+E 138 St & Willow Ave,3947,Mott Haven-Port Morris,Bronx,-73.911545,40.804168,18
+E 138 St & Cypress Ave,3948,Mott Haven-Port Morris,Bronx,-73.914718,40.805559,23
+Brook Ave & E 138 St,3949,park-cemetery-etc-Manhattan,Manhattan,-73.91924,40.807408,23
+Brook Ave & E 141 St,3950,park-cemetery-etc-Manhattan,Manhattan,-73.917875,40.809619,19
+E 141 St & St Ann's Ave,3951,Mott Haven-Port Morris,Bronx,-73.916124,40.808633,19
+W 147 St & Adam Clayton Powell Blvd,3953,Central Harlem North-Polo Grounds,Manhattan,-73.937413,40.82281,25
+St Mary's St & Jackson Ave,3955,Mott Haven-Port Morris,Bronx,-73.91081,40.808891,19
+St. Ann's Ave & E 144 St,3956,Mott Haven-Port Morris,Bronx,-73.914932,40.811112,23
+Willis Ave & E 143 St,3958,park-cemetery-etc-Manhattan,Manhattan,-73.92037,40.812299,23
+Edgecombe Ave & W 145 St,3959,Hamilton Heights,Manhattan,-73.94386,40.823498,31
+Hamilton Pl & W 140 St,3960,Hamilton Heights,Manhattan,-73.951346,40.822756,21
+Morris Ave & E 153 St,3961,park-cemetery-etc-Manhattan,Manhattan,-73.921411,40.820036,19
+Melrose Ave & E 150 St,3963,Melrose South-Mott Haven North,Bronx,-73.917338,40.816827,31
+Brook Ave & E 148 St,3964,Mott Haven-Port Morris,Bronx,-73.915368,40.814383,20
+E 149 St & Eagle Ave,3965,Melrose South-Mott Haven North,Bronx,-73.91186,40.814046,19
+Wales Ave & E 147 St,3966,Mott Haven-Port Morris,Bronx,-73.907729,40.811314,19
+W 146 St & Broadway,3967,Hamilton Heights,Manhattan,-73.949738,40.826969,30
+Prospect Ave & E 151 St,3968,Melrose South-Mott Haven North,Bronx,-73.903927,40.814232,21
+St Ann's Ave & Westchester Ave,3969,Melrose South-Mott Haven North,Bronx,-73.911918,40.815887,19
+Melrose Ave & E 154 St,3970,Melrose South-Mott Haven North,Bronx,-73.916071,40.819609,19
+E 158 St & Melrose Ave,3972,Melrose South-Mott Haven North,Bronx,-73.914688,40.822215,23
+St Nicholas Ave & W 150 St,3973,Hamilton Heights,Manhattan,-73.942722,40.827212,26
+Brook Ave & E 157 St,3975,Melrose South-Mott Haven North,Bronx,-73.911759,40.820713,21
+E 156 & Brook Ave,3976,Melrose South-Mott Haven North,Bronx,-73.912411,40.819823,19
+Prospect Ave & Longwood Ave,3977,Melrose South-Mott Haven North,Bronx,-73.90202,40.81899,29
+Cauldwell Ave & E 161 St,3978,Melrose South-Mott Haven North,Bronx,-73.907521,40.82188,18
+Amsterdam Ave & W 152 St,3980,Hamilton Heights,Manhattan,-73.944279,40.829523,20
+Harlem River Dr & W 155 St,3981,Central Harlem North-Polo Grounds,Manhattan,-73.939929,40.830476,24
+Bergen Ave & E 152 St,3982,Melrose South-Mott Haven North,Bronx,-73.914737,40.817166,21
+Westchester Ave & E 156 St,3983,Melrose South-Mott Haven North,Bronx,-73.905203,40.817802,23
+W 140 St & Riverside Dr,3984,Hamilton Heights,Manhattan,-73.954743,40.824013,23
+E 160 St & Tinton Ave,3985,Melrose South-Mott Haven North,Bronx,-73.903944,40.820302,22
+E 149 St & Morris Ave,3986,park-cemetery-etc-Manhattan,Manhattan,-73.922962,40.81734,0
+E 149 St & Jackson Ave,3987,Mott Haven-Port Morris,Bronx,-73.909235,40.813135,23
+E 128 St & 3 Ave,3988,park-cemetery-etc-Manhattan,Manhattan,-73.934077,40.805631,19
+Willis Ave & E 137 St,3989,park-cemetery-etc-Manhattan,Manhattan,-73.923604,40.808384,22
+W 169 St & Fort Washington Ave,3992,Washington Heights South,Manhattan,-73.9421253,40.8428422,47
+2 Ave & E 125 St,3994,park-cemetery-etc-Manhattan,Manhattan,-73.933509,40.802554,30
+5 Ave & E 135 St,3995,park-cemetery-etc-Manhattan,Manhattan,-73.937838,40.812191,21
+Lexington Ave & E 128 St,3996,park-cemetery-etc-Manhattan,Manhattan,-73.936085,40.806414,24
+5 Av & W 139 St,3997,Central Harlem North-Polo Grounds,Manhattan,-73.935856,40.815484,20
+W 135 St & Lenox Terrace Pl,3998,Central Harlem North-Polo Grounds,Manhattan,-73.939336,40.813619,29
+Adam Clayton Powell Blvd & W 138 St,3999,Central Harlem North-Polo Grounds,Manhattan,-73.9422959089279,40.81695971032464,23
+Lenox Ave & W 144 St,4000,Central Harlem North-Polo Grounds,Manhattan,-73.936521,40.819783,22
+Lenox Ave & W 146 St,4001,Central Harlem North-Polo Grounds,Manhattan,-73.935971,40.821111,24
+W 144 St & Adam Clayton Powell Blvd,4002,Central Harlem North-Polo Grounds,Manhattan,-73.939249,40.820877,24
+Edgecombe Ave & W 141 St,4004,Central Harlem North-Polo Grounds,Manhattan,-73.945144,40.820681,21
+St. Nicholas Terrace & Convent Ave,4005,park-cemetery-etc-Manhattan,Manhattan,-73.947868,40.821294,24
+E 147 St & Bergen Ave,4006,park-cemetery-etc-Manhattan,Manhattan,-73.91839,40.814673,25
+Riverside Dr & W 138 St,4007,Hamilton Heights,Manhattan,-73.955857,40.823168,30
+Broadway & W 142 St,4008,Hamilton Heights,Manhattan,-73.951947,40.824686,0
+Riverside Dr & W 145 St,4009,Hamilton Heights,Manhattan,-73.951989,40.827305,35
+W 145 St & Amsterdam Ave,4010,Hamilton Heights,Manhattan,-73.947257,40.825244,24
+Westchester Ave & Jackson Ave,4011,Melrose South-Mott Haven North,Bronx,-73.908116,40.816124,25
+W 148 St & Amsterdam Ave,4012,Hamilton Heights,Manhattan,-73.945909,40.827075,23
+Convent Ave & W 151 St,4013,Hamilton Heights,Manhattan,-73.942924,40.82831,24
+Riverside Dr & W 148 St,4014,Hamilton Heights,Manhattan,-73.950426,40.829114,22
+W 155 St & Frederick Douglass Blvd,4015,Central Harlem North-Polo Grounds,Manhattan,-73.936996,40.82923,31
+Adam Clayton Powell Blvd & W 130 St,4016,Central Harlem North-Polo Grounds,Manhattan,-73.946168,40.812346,22
+E 138 St & 5 Av,4017,park-cemetery-etc-Manhattan,Manhattan,-73.936153,40.81449,22
+Broadway & W 131 St,4018,Manhattanville,Manhattan,-73.957163,40.817555,21
+St. Ann's Av & Bruckner Blvd,4019,park-cemetery-etc-Manhattan,Manhattan,-73.919763,40.803399,17
+Bradhurst Ave & W 148 St,4020,Hamilton Heights,Manhattan,-73.941616,40.825125,22
+E 138 St & Grand Concourse,4021,park-cemetery-etc-Manhattan,Manhattan,-73.930605,40.813224,21
+Lenox Ave & W 142 St,4022,Central Harlem North-Polo Grounds,Manhattan,-73.937743,40.818067,0
+Adam Clayton Powell Blvd & W 141 St,4023,Central Harlem North-Polo Grounds,Manhattan,-73.941057,40.819241,24
+Macombs Pl & W 152 St,4024,Central Harlem North-Polo Grounds,Manhattan,-73.937948,40.826406,33
+Edgecombe Ave & W 150 St,4025,Hamilton Heights,Manhattan,-73.941427,40.826881,20
+St. Nicholas Ave & W 155 St,4027,Hamilton Heights,Manhattan,-73.941323,40.830663,23
+Frederick Douglass Blvd & Harlem River Dr,4028,Central Harlem North-Polo Grounds,Manhattan,-73.936371,40.830702,19
+Courtlandt Ave & E 149 St,4029,park-cemetery-etc-Manhattan,Manhattan,-73.919549,40.816402,23
+Courtlandt Ave & E 157 St,4030,Melrose South-Mott Haven North,Bronx,-73.916792,40.822267,23
+Cauldwell Ave & E 158 St,4031,Melrose South-Mott Haven North,Bronx,-73.908351,40.81989,19
+E 155 St & Courtlandt Ave,4032,Melrose South-Mott Haven North,Bronx,-73.917579,40.82057,19
+Hamilton Pl & W 138 St,4034,Hamilton Heights,Manhattan,-73.952761,40.821728,27
+Broadway & W 153 St,4035,Hamilton Heights,Manhattan,-73.946665,40.831327,20
+Southpoint Park,4038,Lenox Hill-Roosevelt Island,Manhattan,-73.95865201950072,40.75370225419114,29
+Madison Ave & E 26 St,4040,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.98671329021454,40.742684734875695,51
+Adam Clayton Powell Blvd & W 151 St,4041,Central Harlem North-Polo Grounds,Manhattan,-73.936232,40.825289,18
+W 78 St & Amsterdam Ave,4043,Upper West Side,Manhattan,-73.97908508777618,40.782535857724106,24
+8 Ave & W 38 St,4044,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,-73.99177,40.75461,49
+West End Ave & W 60 St,4045,Lincoln Square,Manhattan,-73.99005,40.77237,39
+Amsterdam Ave & W 156 St,4047,park-cemetery-etc-Manhattan,Manhattan,-73.942386,40.832081,27
+St. Nicholas Ave & W 157 St,4048,park-cemetery-etc-Manhattan,Manhattan,-73.94102,40.832314,20
+W 159 St & Edgecombe Ave,4050,park-cemetery-etc-Manhattan,Manhattan,-73.939326,40.833303,21
+W 160 St & St. Nicholas Ave,4051,park-cemetery-etc-Manhattan,Manhattan,-73.939865,40.834468,26
+Amsterdam Ave & W 162 St,4052,park-cemetery-etc-Manhattan,Manhattan,-73.939789,40.83618,27
+W 163 St & Edgecombe Ave,4053,park-cemetery-etc-Manhattan,Manhattan,-73.937496,40.835798,19
+W 163 St & Riverside Dr,4054,Washington Heights South,Manhattan,-73.945446,40.839278,19
+W 165 St & Fort Washington Ave,4055,Washington Heights South,Manhattan,-73.942939,40.84004,27
+Broadway & W 165 St,4056,park-cemetery-etc-Manhattan,Manhattan,-73.941409,40.839137,24
+Amsterdam Ave & W 167 St,4057,park-cemetery-etc-Manhattan,Manhattan,-73.937044,40.839443,23
+Madison Av & E 51 St,4058,Midtown-Midtown South,Manhattan,-73.97513,40.75863,41
+W 171 St & St. Nicholas Ave,4059,park-cemetery-etc-Manhattan,Manhattan,-73.938631,40.842941,31
+Fort Washington Ave & W 173 St,4061,Washington Heights South,Manhattan,-73.940493,40.84522,24
+Wadsworth Ave & W 175 St,4063,park-cemetery-etc-Manhattan,Manhattan,-73.937648,40.846052,24
+Southern Blvd & E 142 St,4064,Mott Haven-Port Morris,Bronx,-73.90809774398804,40.807347437082,23
+Wadsworth Ave & W 179 St,4065,park-cemetery-etc-Manhattan,Manhattan,-73.936064,40.848467,35
+Audobon Ave & W 179 St,4066,park-cemetery-etc-Manhattan,Manhattan,-73.933291,40.847305,23
+Fort Washington Ave & W 183 St,4068,Washington Heights North,Manhattan,-73.937854,40.852252,30
+Cabrini Blvd & W 177 St,4069,Washington Heights South,Manhattan,-73.941343,40.848282,24
+W 180 St & Ft Washington Ave,4070,Washington Heights South,Manhattan,-73.938423,40.849972,24
+Broadway & W 160 St,4071,Washington Heights South,Manhattan,-73.9434,40.835775,22
+W 48 St & Rockefeller Plaza,4072,Midtown-Midtown South,Manhattan,-73.97960275411606,40.75793646243674,40
+W 51 St & Rockefeller Plaza,4073,Midtown-Midtown South,Manhattan,-73.97808194160461,40.75969995906254,35
+Central Park West & W 85 St,4075,Upper West Side,Manhattan,-73.969862,40.78476,38
+E 150 St & Gerard Ave,4076,West Concourse,Bronx,-73.928947,40.820089,29
+Concourse Village East & E 158 St,4078,park-cemetery-etc-Manhattan,Manhattan,-73.919379,40.823732,31
+Grant Ave & E 164 St,4079,East Concourse-Concourse Village,Bronx,-73.91769,40.828847,21
+Jerome Ave & E 164 St,4080,West Concourse,Bronx,-73.926226,40.831444,0
+Gerard Ave & E 165 St,4081,West Concourse,Bronx,-73.922394,40.83173,21
+Gerard Ave & McClellan St,4082,West Concourse,Bronx,-73.92112,40.833909,30
+Walton Ave & E 168 St,4083,West Concourse,Bronx,-73.918316,40.83649,20
+Sheridan Ave & E 168 St,4084,East Concourse-Concourse Village,Bronx,-73.9154,40.835334,22
+Grand Concourse & E 171 St,4085,East Concourse-Concourse Village,Bronx,-73.913004,40.839549,25
+Inwood Ave & W 170 St,4086,Highbridge,Bronx,-73.919228,40.840536,21
+W 170 St & University Ave,4087,Highbridge,Bronx,-73.926075,40.84207,22
+Nelson Ave & W 172 St,4088,Highbridge,Bronx,-73.920999,40.843965,20
+Grand Concourse & E 156 St,4090,West Concourse,Bronx,-73.924689,40.823429,21
+Jerome Ave & Ogden Ave,4091,Highbridge,Bronx,-73.931015,40.829797,21
+Jerome Ave & Anderson Ave,4092,Highbridge,Bronx,-73.928747,40.830179,19
+Grand Concourse & E 161 St,4093,West Concourse,Bronx,-73.92272,40.827115,25
+Park Ave & E 162 St,4094,East Concourse-Concourse Village,Bronx,-73.915585,40.825716,21
+E 165 St & Jerome Ave,4095,West Concourse,Bronx,-73.925101,40.83263,0
+Grand Concourse & E 167 St,4096,East Concourse-Concourse Village,Bronx,-73.917641,40.834263,30
+Shakespeare Ave & W 169 St,4098,Highbridge,Bronx,-73.922423,40.839312,20
+E 169 St & Webster Ave,4099,East Concourse-Concourse Village,Bronx,-73.908863,40.834015,21
+E 153 St & E 157 St,4101,West Concourse,Bronx,-73.929327,40.826677,19
+Grand Concourse & E 164 St,4102,West Concourse,Bronx,-73.921461,40.829608,22
+Ogden Ave & W 165 St,4103,Highbridge,Bronx,-73.928381,40.834457,19
+Old Broadway & W 133 St,4104,Manhattanville,Manhattan,-73.955277,40.818212,20
+Concourse Village West & E 156 St,4105,park-cemetery-etc-Manhattan,Manhattan,-73.923267,40.823162,21
+Ogden Ave & W 164 St,4106,Highbridge,Bronx,-73.929372,40.832812,19
+E 170 St & Clay Ave,4107,park-cemetery-etc-Bronx,Bronx,-73.908345,40.837213,0
+Clay Ave & E 173 St,4108,Claremont-Bathgate,Bronx,-73.904867,40.843264,19
+Amsterdam Ave & W 183 St,4109,park-cemetery-etc-Manhattan,Manhattan,-73.93022,40.84925,21
+Avenue D & E 10 St,4110,Lower East Side,Manhattan,-73.97515833377838,40.72506551015475,30
+Wards Meadow Comfort Station,4112,park-cemetery-etc-Manhattan,Manhattan,-73.93077,40.78294,0
+Sunken Meadow Comfort Station,4114,park-cemetery-etc-Manhattan,Manhattan,-73.91906,40.79558,0
+Gerard Ave & E 164 St,4116,West Concourse,Bronx,-73.923391,40.830262,19
+Liberty St & Nassau St,4118,Battery Park City-Lower Manhattan,Manhattan,-74.00935482235809,40.70858894240581,45
+E 39 St & Lexington Ave,4120,Murray Hill-Kips Bay,Manhattan,-73.97729203113158,40.749498546025194,43
+1 Ave & E 39 St,4121,Turtle Bay-East Midtown,Manhattan,-73.97113,40.74714,53
+Central Park W & W 97 St,4122,Upper West Side,Manhattan,-73.96417066463071,40.79249519495111,53
+Central Park W & W 103 St,4123,Upper West Side,Manhattan,-73.96158903853575,40.796036841599836,58
+Central Park W & W 91 St,4124,park-cemetery-etc-Manhattan,Manhattan,-73.96680057048798,40.788664991278836,48
+E 161 St & River Ave,4125,West Concourse,Bronx,-73.927111,40.827883,37
+E 157 St & River Ave,4126,West Concourse,Bronx,-73.927311,40.825737,19
+Ogden Ave & Merriam Ave,4127,Highbridge,Bronx,-73.925961,40.839142,19
+College Ave & E 170 St,4128,East Concourse-Concourse Village,Bronx,-73.910489,40.837576,24
+Anderson Ave & W 164 St,4129,Highbridge,Bronx,-73.927421,40.832057,18
+Morris Ave & McClellan St,4130,East Concourse-Concourse Village,Bronx,-73.9149,40.831584,22
+Goble Pl & Macombs Rd,4131,West Concourse,Bronx,-73.917256,40.844075,19
+Southern Blvd & Avenue St. John,4132,Longwood,Bronx,-73.901583,40.812769,19
+Beck St & Leggett Ave,4133,Longwood,Bronx,-73.899939,40.815077,20
+Longwood Ave & Southern Blvd,4134,Longwood,Bronx,-73.896447,40.816343,24
+Westchester Ave & Longwood Ave,4135,Longwood,Bronx,-73.901311,40.819701,23
+3 Ave & E 163 St,4137,Morrisania-Melrose,Bronx,-73.908699,40.823872,27
+3 Ave & Franklin Ave,4138,Morrisania-Melrose,Bronx,-73.907451,40.82696,19
+Tinton Ave & E 165 St,4139,Morrisania-Melrose,Bronx,-73.90242,40.824796,19
+E 163 St & Union Ave,4140,Longwood,Bronx,-73.901824,40.822545,0
+Southern Blvd & Tiffany St,4141,Hunts Point,Bronx,-73.894143,40.818185,20
+Lafayette Ave & Hunts Point Ave,4144,Hunts Point,Bronx,-73.888161,40.816567,3
+Garrison Ave & Manida St,4146,Hunts Point,Bronx,-73.890247,40.818743,0
+E 163 St & Tiffany St,4147,Hunts Point,Bronx,-73.895069,40.821075,19
+Intervale Ave & Westchester Ave,4148,Longwood,Bronx,-73.896752,40.821967,27
+E 167 St & Franklin Ave,4149,Morrisania-Melrose,Bronx,-73.90521,40.82895,0
+E 170 St & Webster Ave,4150,Claremont-Bathgate,Bronx,-73.907199,40.836103,25
+3 Ave & E 169 St,4151,Claremont-Bathgate,Bronx,-73.905158,40.832678,21
+Fulton Ave & E 168 St,4152,Morrisania-Melrose,Bronx,-73.904556,40.830471,21
+E 165 St & Fox St,4153,Longwood,Bronx,-73.894025,40.82394,0
+Faile St & Garrison Ave,4154,Hunts Point,Bronx,-73.888271,40.820578,19
+E 169 St & Fox St,4155,Morrisania-Melrose,Bronx,-73.893721,40.827184,19
+Fulton Ave & St. Paul's Pl,4156,Claremont-Bathgate,Bronx,-73.90153,40.83545,19
+Freeman St & Reverend James A Polite Ave,4158,Morrisania-Melrose,Bronx,-73.894717,40.830529,19
+3 Ave & E 172 St,4159,Claremont-Bathgate,Bronx,-73.900277,40.839586,0
+3 Ave & E 174 St,4161,Claremont-Bathgate,Bronx,-73.8985,40.84224,0
+Southern Blvd & E 172 St,4162,Crotona Park East,Bronx,-73.88955,40.834124,19
+E 165 St & Clay Ave,4165,East Concourse-Concourse Village,Bronx,-73.91288,40.82809,3
+River Ave & E 153 St,4166,West Concourse,Bronx,-73.92818,40.82441,27
+Grand Concourse & East Mount Eden Ave,4167,East Concourse-Concourse Village,Bronx,-73.91172,40.84301,19
+Mount Eden Pkwy & Eastburn Ave,4168,park-cemetery-etc-Bronx,Bronx,-73.908544,40.842675,0
+Morris Ave & E 171 St,4169,East Concourse-Concourse Village,Bronx,-73.9109,40.83899,0
+3 Ave & E 170 St,4174,Claremont-Bathgate,Bronx,-73.903743,40.834857,21
+E 171 St & Webster Ave,4175,Claremont-Bathgate,Bronx,-73.905838,40.838379,0
+E 149 St & Park Ave,4186,park-cemetery-etc-Manhattan,Manhattan,-73.925294,40.818154,0
+Broadway & W 155 St,4188,Washington Heights South,Manhattan,-73.94592,40.83299,31
+Grant Ave & E 169 St,4189,East Concourse-Concourse Village,Bronx,-73.913741,40.83579,0
+Walton Ave & E 171 St,4190,West Concourse,Bronx,-73.915073,40.840683,0
+Intervale Ave & Kelly St,4191,Longwood,Bronx,-73.896372,40.827301,0
+Prospect Ave & E 167 St,4192,Longwood,Bronx,-73.898751,40.826303,0
+W 181 St & Riverside Dr,4193,Washington Heights South,Manhattan,-73.94186,40.85168,21
+Plaza Dr & W 170 St,4194,Highbridge,Bronx,-73.917946,40.840484,0
+E 167 St & Clay Ave,4195,East Concourse-Concourse Village,Bronx,-73.91125,40.83094,0
+Water St & Coenties Slip,4197,Battery Park City-Lower Manhattan,Manhattan,-74.01001632213591,40.70336845553049,0
+E 161 St & Park Ave,4198,East Concourse-Concourse Village,Bronx,-73.916407,40.824811,0
+River Ave & McClellan St,4199,West Concourse,Bronx,-73.92243,40.83406,21
+Clay Ave & Claremont Pkwy,4201,Claremont-Bathgate,Bronx,-73.90549,40.83999,0
+Dawson St & Intervale Ave,4202,Longwood,Bronx,-73.897263,40.819999,0
+Sherman Ave & E 166 St,4207,East Concourse-Concourse Village,Bronx,-73.91744792461395,40.83130549267296,0
+University Ave & W 168 St,4209,Highbridge,Bronx,-73.927034,40.838706,0
+Grand Concourse & E 166 St,4210,East Concourse-Concourse Village,Bronx,-73.91956,40.83196,0

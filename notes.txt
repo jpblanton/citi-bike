@@ -1,0 +1,26 @@
+download and install timescaledb w/homebrew
+setup the superuser
+	make sure to set up a regular user too
+show schema & building DB
+accessing data, setting up static data
+showing status, the code to process & insert it
+cronjob setup
+
+to grafana
+	The query should be formatted as Table data and have a geohash column and a numeric metric column.
+
+    Location Name Field (optional): enter the name of the Location Name column. Used to label each circle on the map. If it is empty then the geohash value is used as the label.
+    Geohash Field: enter the name of the geohash column. This is used to calculate where the circle should be drawn.
+    Metric Field: enter the name of the metric column. This is used to give the circle a value - this determines how large the circle is.
+
+
+looks like we'll need a view that is the latest available data
+will contain: name, geohash (confirm what that is), capacity data
+
+this should be the view:
+create view test as select A.station_name, (C.bikes + C.ebikes) / cast(A.station_cap as numeric) as metric, A.station_cap, C.bikes, C.ebikes,  B.longitude, B.latitude from names A, location B, (select station_id, last(bikes_available, time) as bikes, last(ebikes_available, time) as ebikes from status group by station_id) C where A.station_id = B.station_id and A.station_id = C.station_id;
+
+lat/lon is in location, cap is in names (as is name)
+need (station_name, metric (avail/cap), lon, lat)
+
+quick script & another timescaledb to monitor capacity values & changes over time
