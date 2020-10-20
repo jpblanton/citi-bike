@@ -1,0 +1,6 @@
+backup/*
+__pycache__/*
+*.csv
+notes.txt
+nyc_data_contagg.sql
+test.py

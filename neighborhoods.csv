@@ -252,6 +252,7 @@ Murray Hill-Kips Bay,Manhattan
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
 North Side-South Side,Brooklyn
 Stuyvesant Town-Cooper Village,Manhattan
+,
 park-cemetery-etc-Manhattan,Manhattan
 Battery Park City-Lower Manhattan,Manhattan
 Chinatown,Manhattan
@@ -339,10 +340,13 @@ Lenox Hill-Roosevelt Island,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
+,
+,
 Upper East Side-Carnegie Hill,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
+,
 Upper East Side-Carnegie Hill,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
@@ -373,7 +377,33 @@ Upper West Side,Manhattan
 Upper West Side,Manhattan
 Bushwick South,Brooklyn
 park-cemetery-etc-Manhattan,Manhattan
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
 Hunters Point-Sunnyside-West Maspeth,Queens
+,
 Upper West Side,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
@@ -392,6 +422,20 @@ SoHo-TriBeCa-Civic Center-Little Italy,Manhattan
 Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan
 West Village,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
 Upper West Side,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
 Upper West Side,Manhattan
@@ -400,12 +444,14 @@ Upper West Side,Manhattan
 Yorkville,Manhattan
 Upper West Side,Manhattan
 Yorkville,Manhattan
+,
 Upper West Side,Manhattan
 Upper East Side-Carnegie Hill,Manhattan
 Yorkville,Manhattan
 Park Slope-Gowanus,Brooklyn
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
 East Harlem South,Manhattan
+,
 Upper West Side,Manhattan
 Upper West Side,Manhattan
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
@@ -454,6 +500,7 @@ Park Slope-Gowanus,Brooklyn
 Upper West Side,Manhattan
 East Harlem South,Manhattan
 Carroll Gardens-Columbia Street-Red Hook,Brooklyn
+,
 Upper East Side-Carnegie Hill,Manhattan
 Lincoln Square,Manhattan
 Morningside Heights,Manhattan
@@ -471,6 +518,7 @@ Yorkville,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Park Slope-Gowanus,Brooklyn
+,
 Upper East Side-Carnegie Hill,Manhattan
 Lenox Hill-Roosevelt Island,Manhattan
 Carroll Gardens-Columbia Street-Red Hook,Brooklyn
@@ -514,6 +562,7 @@ Park Slope-Gowanus,Brooklyn
 Park Slope-Gowanus,Brooklyn
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
 Carroll Gardens-Columbia Street-Red Hook,Brooklyn
+,
 East Harlem South,Manhattan
 East Harlem South,Manhattan
 Fort Greene,Brooklyn
@@ -537,6 +586,8 @@ Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan
 Sunset Park West,Brooklyn
 Sunset Park West,Brooklyn
 park-cemetery-etc-Manhattan,Manhattan
+,
+,
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
 park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
@@ -625,6 +676,7 @@ Crown Heights North,Brooklyn
 Prospect Heights,Brooklyn
 Prospect Heights,Brooklyn
 Crown Heights North,Brooklyn
+,
 Crown Heights North,Brooklyn
 Crown Heights South,Brooklyn
 Queensbridge-Ravenswood-Long Island City,Queens
@@ -668,6 +720,9 @@ park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
 Clinton Hill,Brooklyn
+,
+,
+,
 Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan
 Queensbridge-Ravenswood-Long Island City,Queens
 Hunters Point-Sunnyside-West Maspeth,Queens
@@ -683,13 +738,18 @@ Yorkville,Manhattan
 Crown Heights North,Brooklyn
 DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,Brooklyn
 Carroll Gardens-Columbia Street-Red Hook,Brooklyn
+,
+,
+,
 Midtown-Midtown South,Manhattan
+,
 West Village,Manhattan
 Murray Hill-Kips Bay,Manhattan
 Upper West Side,Manhattan
 Battery Park City-Lower Manhattan,Manhattan
 Astoria,Queens
 North Side-South Side,Brooklyn
+,
 Lincoln Square,Manhattan
 Clinton,Manhattan
 Hunters Point-Sunnyside-West Maspeth,Queens
@@ -756,6 +816,8 @@ Chinatown,Manhattan
 park-cemetery-etc-Brooklyn,Brooklyn
 Clinton Hill,Brooklyn
 Brooklyn Heights-Cobble Hill,Brooklyn
+,
+,
 Park Slope-Gowanus,Brooklyn
 Midtown-Midtown South,Manhattan
 Midtown-Midtown South,Manhattan
@@ -897,9 +959,11 @@ Mott Haven-Port Morris,Bronx
 park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
 Mott Haven-Port Morris,Bronx
+,
 Central Harlem North-Polo Grounds,Manhattan
 Mott Haven-Port Morris,Bronx
 Mott Haven-Port Morris,Bronx
+,
 park-cemetery-etc-Manhattan,Manhattan
 Hamilton Heights,Manhattan
 Hamilton Heights,Manhattan
@@ -968,6 +1032,8 @@ Melrose South-Mott Haven North,Bronx
 Melrose South-Mott Haven North,Bronx
 Hamilton Heights,Manhattan
 Hamilton Heights,Manhattan
+,
+,
 Lenox Hill-Roosevelt Island,Manhattan
 Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan
 Central Harlem North-Polo Grounds,Manhattan
@@ -986,17 +1052,21 @@ park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
 Midtown-Midtown South,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
+,
 Washington Heights South,Manhattan
+,
 park-cemetery-etc-Manhattan,Manhattan
 Mott Haven-Port Morris,Bronx
 park-cemetery-etc-Manhattan,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
+,
 Washington Heights North,Manhattan
 Washington Heights South,Manhattan
 Washington Heights South,Manhattan
 Washington Heights South,Manhattan
 Midtown-Midtown South,Manhattan
 Midtown-Midtown South,Manhattan
+,
 Upper West Side,Manhattan
 West Concourse,Bronx
 park-cemetery-etc-Manhattan,Manhattan
@@ -1030,7 +1100,9 @@ Claremont-Bathgate,Bronx
 park-cemetery-etc-Manhattan,Manhattan
 Lower East Side,Manhattan
 park-cemetery-etc-Manhattan,Manhattan
+,
 park-cemetery-etc-Manhattan,Manhattan
+,
 West Concourse,Bronx
 Battery Park City-Lower Manhattan,Manhattan
 Murray Hill-Kips Bay,Manhattan

@@ -1,0 +1,4 @@
+citi-env/*
+backup/*
+cron_out.txt
+test*

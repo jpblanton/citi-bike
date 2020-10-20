@@ -1,3 +1,7 @@
+run nyc_data.sql
+run build_static_data.py
+then monitor_status.py
+
 download and install timescaledb w/homebrew
 setup the superuser
 	make sure to set up a regular user too
@@ -18,9 +22,18 @@ looks like we'll need a view that is the latest available data
 will contain: name, geohash (confirm what that is), capacity data
 
 this should be the view:
-create view test as select A.station_name, (C.bikes + C.ebikes) / cast(A.station_cap as numeric) as metric, A.station_cap, C.bikes, C.ebikes,  B.longitude, B.latitude from names A, location B, (select station_id, last(bikes_available, time) as bikes, last(ebikes_available, time) as ebikes from status group by station_id) C where A.station_id = B.station_id and A.station_id = C.station_id;
+create view test as select A.station_id, A.station_name, (C.bikes + C.ebikes) / cast(A.station_cap as numeric) as metric, A.station_cap, C.bikes, C.ebikes,  B.longitude, B.latitude from names A, location B, (select station_id, last(bikes_available, time) as bikes, last(ebikes_available, time) as ebikes from status group by station_id) C where A.station_id = B.station_id and A.station_id = C.station_id;
 
 lat/lon is in location, cap is in names (as is name)
 need (station_name, metric (avail/cap), lon, lat)
 
-quick script & another timescaledb to monitor capacity values & changes over time
+don't need to worry about overtime capacity, will use the provided in station_information
+still not sure where the old capacities are sneaking in
+
+
+
+
+
+
+
+some stations, like 5 Ave & E 63 St, did not get assigned a borough/neighborhood

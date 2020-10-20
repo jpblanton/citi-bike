@@ -1,0 +1,2 @@
+python3 build_static_data.py
+python3 monitor_station_status.py
